@@ -1,0 +1,92 @@
+{
+    "contract": "bodhi.nexus.v10",
+    "node_dna": {
+        "identity": "100048777766367/nexus-10",
+        "generation": "F10_THẬP_TOÀN_ĐẠI_VIÊN_MÃN",
+        "epoch": 1,
+        "architecture": "Indra_Cross_Attention_O(n^2)"
+    },
+    "epoch": 1,
+    "timestamp": 1792078166,
+    "decision": 0.5087,
+    "transmuted_signals": {
+        "retina": {
+            "focal_matrix_2d": [
+                [
+                    0.5087,
+                    0.4913
+                ],
+                [
+                    -0.0619,
+                    -0.0358
+                ]
+            ],
+            "zoom": 1.0087
+        },
+        "cochlea": {
+            "bandpass_filter_1d": [
+                11939.4281,
+                48689.9258
+            ],
+            "freq_cutoff": 10174.0
+        },
+        "tactile": {
+            "nociceptive_threshold": 0.0174,
+            "pain_gain": 0.5
+        },
+        "olfactory": {
+            "gpcr_affinity": [
+                11939.4281,
+                48689.9258,
+                39630.538,
+                58641.0856
+            ],
+            "toxicity_alert": false
+        },
+        "motor": {
+            "action_vector": [
+                0.0087,
+                0.0087,
+                -0.977
+            ],
+            "state": "contract"
+        },
+        "neuron": {
+            "stigmergic_trail": [
+                -0.0619,
+                -0.0358
+            ],
+            "cross_plasticity": 0.0254
+        },
+        "shunya": {
+            "vacuum_decay": 0.999,
+            "collapse_to_zero": true
+        },
+        "monad": {
+            "monadic_reflection": 0.5087
+        }
+    },
+    "gossip_network": [
+        "100048777766367/nexus-09",
+        "100048777766367/nexus-08",
+        "100048777766367/nexus-07",
+        "100048777766367/neuron",
+        "100048777766367/seed",
+        "100048777766367/motor",
+        "100048777766367/seed-01",
+        "100048777766367/seed-02",
+        "100048777766367/seed-bodhi",
+        "100048777766367/seed-bodhi-02",
+        "100048777766367/monad",
+        "100048777766367/monad-01",
+        "100048777766367/monad-02",
+        "100048777766367/retina",
+        "100048777766367/cochlea",
+        "100048777766367/tactile",
+        "100048777766367/olfactory",
+        "100048777766367/genome",
+        "100048777766367/nexus-06",
+        "100048777766367/shunya"
+    ],
+    "quantum_cid": "a264fedb5fdab0aa6e7b3f8e85ca1bf240f4b1b420e8976fcfca892f2f7c11681def9ee5de17bf6418d707b14b8cb0bea9e39873932b9b22283c2a925185f754"
+}

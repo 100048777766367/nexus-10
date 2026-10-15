@@ -1,0 +1,12 @@
+{
+    "nodes": [
+        "Bradford",
+        "Bradford Colliery",
+        "Although",
+        "the Manchester"
+    ],
+    "edges": [
+        "Bradford ===[colliery:]===> Bradford Colliery",
+        "Although ===[part]===> the Manchester"
+    ]
+}
