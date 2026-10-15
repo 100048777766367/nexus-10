@@ -3,10 +3,13 @@
         "Bradford",
         "Bradford Colliery",
         "Although",
-        "the Manchester"
+        "the Manchester",
+        "Sapphire-vented",
+        "The sapphire-vented"
     ],
     "edges": [
         "Bradford ===[colliery:]===> Bradford Colliery",
-        "Although ===[part]===> the Manchester"
+        "Although ===[part]===> the Manchester",
+        "Sapphire-vented ===[puffleg:]===> The sapphire-vented"
     ]
 }
