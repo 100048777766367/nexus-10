@@ -22,7 +22,9 @@
         "village the",
         "municipality Sluis",
         "Grimson",
-        "family): The"
+        "family): The",
+        "Avraham",
+        "(politician): Avraham"
     ],
     "edges": [
         "Bradford ===[colliery:]===> Bradford Colliery",
@@ -36,6 +38,7 @@
         "Stinson ===[field]===> Municipal Airport:",
         "Waterlandkerkje: ===[waterlandkerkje]===> village the",
         "Located ===[the]===> municipality Sluis",
-        "Grimson ===[(musical]===> family): The"
+        "Grimson ===[(musical]===> family): The",
+        "Avraham ===[melamed]===> (politician): Avraham"
     ]
 }
