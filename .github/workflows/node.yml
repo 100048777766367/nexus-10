@@ -19,7 +19,7 @@ jobs:
           git clone --depth 1 https://github.com/${{ github.repository }}.git .
 
       - name: Thiết lập Python 3.12
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v7
         with:
           python-version: '3.12'
 
