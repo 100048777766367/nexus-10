@@ -20,7 +20,9 @@
         "Municipal Airport:",
         "Waterlandkerkje:",
         "village the",
-        "municipality Sluis"
+        "municipality Sluis",
+        "Grimson",
+        "family): The"
     ],
     "edges": [
         "Bradford ===[colliery:]===> Bradford Colliery",
@@ -33,6 +35,7 @@
         "Located ===[the]===> corner",
         "Stinson ===[field]===> Municipal Airport:",
         "Waterlandkerkje: ===[waterlandkerkje]===> village the",
-        "Located ===[the]===> municipality Sluis"
+        "Located ===[the]===> municipality Sluis",
+        "Grimson ===[(musical]===> family): The"
     ]
 }
