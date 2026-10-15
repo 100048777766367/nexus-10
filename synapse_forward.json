@@ -3,67 +3,67 @@
     "node_dna": {
         "identity": "100048777766367/nexus-10",
         "generation": "F10_THẬP_TOÀN_ĐẠI_VIÊN_MÃN",
-        "epoch": 4,
+        "epoch": 5,
         "architecture": "Indra_Cross_Attention_O(n^2)"
     },
-    "epoch": 4,
-    "timestamp": 1792078294,
-    "decision": 0.4932,
+    "epoch": 5,
+    "timestamp": 1792078752,
+    "decision": 0.4868,
     "transmuted_signals": {
         "retina": {
             "focal_matrix_2d": [
                 [
-                    0.4932,
-                    0.5068
+                    0.4868,
+                    0.5132
                 ],
                 [
-                    0.0632,
-                    0.0369
+                    0.0615,
+                    0.0417
                 ]
             ],
-            "zoom": 1.0068
+            "zoom": 1.0132
         },
         "cochlea": {
             "bandpass_filter_1d": [
-                37305.2203,
-                7516.7959
+                51250.798,
+                11806.1478
             ],
-            "freq_cutoff": 9864.0
+            "freq_cutoff": 9736.0
         },
         "tactile": {
-            "nociceptive_threshold": 0.0136,
+            "nociceptive_threshold": 0.0264,
             "pain_gain": 0.5
         },
         "olfactory": {
             "gpcr_affinity": [
-                37305.2203,
-                7516.7959,
-                57474.5186,
-                45524.3825
+                51250.798,
+                11806.1478,
+                53646.0038,
+                41992.7674
             ],
             "toxicity_alert": false
         },
         "motor": {
             "action_vector": [
-                -0.0068,
-                0.0068,
-                1.001
+                -0.0132,
+                0.0132,
+                1.032
             ],
             "state": "relax"
         },
         "neuron": {
             "stigmergic_trail": [
-                0.0632,
-                0.0369
+                0.0615,
+                0.0417
             ],
-            "cross_plasticity": 0.0247
+            "cross_plasticity": 0.0243
         },
         "shunya": {
             "vacuum_decay": 0.999,
             "collapse_to_zero": true
         },
         "monad": {
-            "monadic_reflection": 0.4932
+            "monadic_reflection": 0.4868
         }
     },
     "gossip_network": [
@@ -88,5 +88,5 @@
         "100048777766367/nexus-06",
         "100048777766367/shunya"
     ],
-    "quantum_cid": "65b74721181a2f11ab06f4f93b74df846daa807e523b8d30615e5a6e0c9f8b9d2765f6996192cac864d336906bb603e295025b300fa2409bcd2e3bcc59c8e367"
+    "quantum_cid": "9b53fded1e52de7379cad1bf3776a3463a24ac8ea3c58c4282aadab5c796839aac490d82e631679702af54b06b75f87b1f4357c79c22c2358566b06361882774"
 }
