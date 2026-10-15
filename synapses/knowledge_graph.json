@@ -9,13 +9,16 @@
         "Hopkinton,",
         "Hampshire: Hopkinton",
         "The",
-        "was 5,914"
+        "was 5,914",
+        "Kangha:",
+        "small wooden"
     ],
     "edges": [
         "Bradford ===[colliery:]===> Bradford Colliery",
         "Although ===[part]===> the Manchester",
         "Sapphire-vented ===[puffleg:]===> The sapphire-vented",
         "Hopkinton, ===[new]===> Hampshire: Hopkinton",
-        "The ===[population]===> was 5,914"
+        "The ===[population]===> was 5,914",
+        "Kangha: ===[kangha]===> small wooden"
     ]
 }
