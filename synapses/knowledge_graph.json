@@ -17,7 +17,10 @@
         "Located",
         "corner",
         "Stinson",
-        "Municipal Airport:"
+        "Municipal Airport:",
+        "Waterlandkerkje:",
+        "village the",
+        "municipality Sluis"
     ],
     "edges": [
         "Bradford ===[colliery:]===> Bradford Colliery",
@@ -28,6 +31,8 @@
         "Kangha: ===[kangha]===> small wooden",
         "Adıyaman ===[archaeological]===> Museum: Adıyaman",
         "Located ===[the]===> corner",
-        "Stinson ===[field]===> Municipal Airport:"
+        "Stinson ===[field]===> Municipal Airport:",
+        "Waterlandkerkje: ===[waterlandkerkje]===> village the",
+        "Located ===[the]===> municipality Sluis"
     ]
 }
