@@ -1,0 +1,55 @@
+name: Nexus-10 Decagon Indra Lifecycle
+
+on:
+  push:
+    branches: [ main, master ]
+  workflow_dispatch:
+  schedule:
+    - cron: '55 */4 * * *'
+
+permissions:
+  contents: write
+
+jobs:
+  run-nexus10-decagon:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Kéo mã nguồn Nexus-10
+        run: |
+          git clone --depth 1 https://github.com/${{ github.repository }}.git .
+
+      - name: Thiết lập Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Vận hành Vi Nhân Thập Toàn Nexus-10
+        env:
+          REPO_OWNER: ${{ github.repository_owner }}
+        run: python engine.py
+
+      - name: Lưu vết tích tiến hóa Git
+        run: |
+          git config --global user.name "Nexus-10-Decagon-Bot"
+          git config --global user.email "bot@nexus10.decagon.node"
+          
+          # Cấp token an toàn cho chính repo này
+          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
+          
+          TARGET_BRANCH=$(git rev-parse --abbrev-ref HEAD)
+          [ "$TARGET_BRANCH" = "HEAD" ] || [ -z "$TARGET_BRANCH" ] && TARGET_BRANCH="main"
+
+          git fetch origin "$TARGET_BRANCH"
+          git reset origin/"$TARGET_BRANCH"
+          
+          for d in cells cortex synapses; do
+            [ -d "$d" ] && git add -A "$d"
+          done
+          git add synapse_forward.json synapse_backward.json 2>/dev/null || true
+          
+          if ! git diff --staged --quiet; then
+            git commit -m "☸️ [Nexus-10 F10] Thập Toàn Đại Viên Mãn & Ma Trận Indra O(n^2) #(1+N) [skip ci]"
+            git push origin "$TARGET_BRANCH"
+          else
+            echo "Mạng lưới tĩnh lặng, không có biến thiên mới."
+          fi
