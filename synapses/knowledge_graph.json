@@ -5,11 +5,17 @@
         "Although",
         "the Manchester",
         "Sapphire-vented",
-        "The sapphire-vented"
+        "The sapphire-vented",
+        "Hopkinton,",
+        "Hampshire: Hopkinton",
+        "The",
+        "was 5,914"
     ],
     "edges": [
         "Bradford ===[colliery:]===> Bradford Colliery",
         "Although ===[part]===> the Manchester",
-        "Sapphire-vented ===[puffleg:]===> The sapphire-vented"
+        "Sapphire-vented ===[puffleg:]===> The sapphire-vented",
+        "Hopkinton, ===[new]===> Hampshire: Hopkinton",
+        "The ===[population]===> was 5,914"
     ]
 }
