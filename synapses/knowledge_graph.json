@@ -15,7 +15,9 @@
         "Adıyaman",
         "Museum: Adıyaman",
         "Located",
-        "corner"
+        "corner",
+        "Stinson",
+        "Municipal Airport:"
     ],
     "edges": [
         "Bradford ===[colliery:]===> Bradford Colliery",
@@ -25,6 +27,7 @@
         "The ===[population]===> was 5,914",
         "Kangha: ===[kangha]===> small wooden",
         "Adıyaman ===[archaeological]===> Museum: Adıyaman",
-        "Located ===[the]===> corner"
+        "Located ===[the]===> corner",
+        "Stinson ===[field]===> Municipal Airport:"
     ]
 }
