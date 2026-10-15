@@ -24,7 +24,11 @@
         "Grimson",
         "family): The",
         "Avraham",
-        "(politician): Avraham"
+        "(politician): Avraham",
+        "Tingena",
+        "Tingena ancogramma",
+        "Endemic",
+        "Zealand and"
     ],
     "edges": [
         "Bradford ===[colliery:]===> Bradford Colliery",
@@ -39,6 +43,8 @@
         "Waterlandkerkje: ===[waterlandkerkje]===> village the",
         "Located ===[the]===> municipality Sluis",
         "Grimson ===[(musical]===> family): The",
-        "Avraham ===[melamed]===> (politician): Avraham"
+        "Avraham ===[melamed]===> (politician): Avraham",
+        "Tingena ===[ancogramma:]===> Tingena ancogramma",
+        "Endemic ===[new]===> Zealand and"
     ]
 }
