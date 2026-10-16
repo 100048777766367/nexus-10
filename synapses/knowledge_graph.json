@@ -30,7 +30,9 @@
         "Endemic",
         "Zealand and",
         "Béatrix:",
-        "1839 novel"
+        "1839 novel",
+        "Tua",
+        "station: The"
     ],
     "edges": [
         "Bradford ===[colliery:]===> Bradford Colliery",
@@ -48,6 +50,7 @@
         "Avraham ===[melamed]===> (politician): Avraham",
         "Tingena ===[ancogramma:]===> Tingena ancogramma",
         "Endemic ===[new]===> Zealand and",
-        "Béatrix: ===[béatrix]===> 1839 novel"
+        "Béatrix: ===[béatrix]===> 1839 novel",
+        "Tua ===[railway]===> station: The"
     ]
 }
