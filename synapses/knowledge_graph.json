@@ -35,7 +35,11 @@
         "station: The",
         "América",
         "Clube (GO):",
-        "was founded"
+        "was founded",
+        "Madama",
+        "Madama Lucrezia",
+        "Pasquinades",
+        "satires poking"
     ],
     "edges": [
         "Bradford ===[colliery:]===> Bradford Colliery",
@@ -56,6 +60,8 @@
         "Béatrix: ===[béatrix]===> 1839 novel",
         "Tua ===[railway]===> station: The",
         "América ===[futebol]===> Clube (GO):",
-        "The ===[club]===> was founded"
+        "The ===[club]===> was founded",
+        "Madama ===[lucrezia:]===> Madama Lucrezia",
+        "Pasquinades ===[irreverent]===> satires poking"
     ]
 }
