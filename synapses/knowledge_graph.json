@@ -32,7 +32,10 @@
         "Béatrix:",
         "1839 novel",
         "Tua",
-        "station: The"
+        "station: The",
+        "América",
+        "Clube (GO):",
+        "was founded"
     ],
     "edges": [
         "Bradford ===[colliery:]===> Bradford Colliery",
@@ -51,6 +54,8 @@
         "Tingena ===[ancogramma:]===> Tingena ancogramma",
         "Endemic ===[new]===> Zealand and",
         "Béatrix: ===[béatrix]===> 1839 novel",
-        "Tua ===[railway]===> station: The"
+        "Tua ===[railway]===> station: The",
+        "América ===[futebol]===> Clube (GO):",
+        "The ===[club]===> was founded"
     ]
 }
