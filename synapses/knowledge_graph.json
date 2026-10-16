@@ -28,7 +28,9 @@
         "Tingena",
         "Tingena ancogramma",
         "Endemic",
-        "Zealand and"
+        "Zealand and",
+        "Béatrix:",
+        "1839 novel"
     ],
     "edges": [
         "Bradford ===[colliery:]===> Bradford Colliery",
@@ -45,6 +47,7 @@
         "Grimson ===[(musical]===> family): The",
         "Avraham ===[melamed]===> (politician): Avraham",
         "Tingena ===[ancogramma:]===> Tingena ancogramma",
-        "Endemic ===[new]===> Zealand and"
+        "Endemic ===[new]===> Zealand and",
+        "Béatrix: ===[béatrix]===> 1839 novel"
     ]
 }
