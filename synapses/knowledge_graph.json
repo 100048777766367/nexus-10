@@ -49,7 +49,9 @@
         "Roderick:",
         "Rodrick Roderic",
         "Its",
-        "High German"
+        "High German",
+        "Białka,",
+        "County: Białka"
     ],
     "edges": [
         "Bradford ===[colliery:]===> Bradford Colliery",
@@ -77,6 +79,7 @@
         "Friend, ===[kolka!:]===> Friend, Kolka!",
         "Dana ===[vollmer:]===> Dana Whitney",
         "Roderick: ===[roderick,]===> Rodrick Roderic",
-        "Its ===[old]===> High German"
+        "Its ===[old]===> High German",
+        "Białka, ===[parczew]===> County: Białka"
     ]
 }
