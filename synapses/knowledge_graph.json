@@ -39,7 +39,9 @@
         "Madama",
         "Madama Lucrezia",
         "Pasquinades",
-        "satires poking"
+        "satires poking",
+        "Jake",
+        "Jake Bird"
     ],
     "edges": [
         "Bradford ===[colliery:]===> Bradford Colliery",
@@ -62,6 +64,7 @@
         "América ===[futebol]===> Clube (GO):",
         "The ===[club]===> was founded",
         "Madama ===[lucrezia:]===> Madama Lucrezia",
-        "Pasquinades ===[irreverent]===> satires poking"
+        "Pasquinades ===[irreverent]===> satires poking",
+        "Jake ===[bird:]===> Jake Bird"
     ]
 }
