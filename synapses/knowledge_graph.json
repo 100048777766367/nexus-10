@@ -41,7 +41,9 @@
         "Pasquinades",
         "satires poking",
         "Jake",
-        "Jake Bird"
+        "Jake Bird",
+        "Friend,",
+        "Friend, Kolka!"
     ],
     "edges": [
         "Bradford ===[colliery:]===> Bradford Colliery",
@@ -65,6 +67,7 @@
         "The ===[club]===> was founded",
         "Madama ===[lucrezia:]===> Madama Lucrezia",
         "Pasquinades ===[irreverent]===> satires poking",
-        "Jake ===[bird:]===> Jake Bird"
+        "Jake ===[bird:]===> Jake Bird",
+        "Friend, ===[kolka!:]===> Friend, Kolka!"
     ]
 }
