@@ -45,7 +45,11 @@
         "Friend,",
         "Friend, Kolka!",
         "Dana",
-        "Dana Whitney"
+        "Dana Whitney",
+        "Roderick:",
+        "Rodrick Roderic",
+        "Its",
+        "High German"
     ],
     "edges": [
         "Bradford ===[colliery:]===> Bradford Colliery",
@@ -71,6 +75,8 @@
         "Pasquinades ===[irreverent]===> satires poking",
         "Jake ===[bird:]===> Jake Bird",
         "Friend, ===[kolka!:]===> Friend, Kolka!",
-        "Dana ===[vollmer:]===> Dana Whitney"
+        "Dana ===[vollmer:]===> Dana Whitney",
+        "Roderick: ===[roderick,]===> Rodrick Roderic",
+        "Its ===[old]===> High German"
     ]
 }
