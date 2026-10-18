@@ -55,7 +55,9 @@
         "Terebra",
         "Terebra fernandesi",
         "Acıbadem",
-        "Acıbadem Mehmet"
+        "Acıbadem Mehmet",
+        "Andrés",
+        "Andrés Ismael"
     ],
     "edges": [
         "Bradford ===[colliery:]===> Bradford Colliery",
@@ -86,6 +88,7 @@
         "Its ===[old]===> High German",
         "Białka, ===[parczew]===> County: Białka",
         "Terebra ===[fernandesi:]===> Terebra fernandesi",
-        "Acıbadem ===[university:]===> Acıbadem Mehmet"
+        "Acıbadem ===[university:]===> Acıbadem Mehmet",
+        "Andrés ===[cunha:]===> Andrés Ismael"
     ]
 }
