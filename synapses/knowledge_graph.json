@@ -57,7 +57,9 @@
         "Acıbadem",
         "Acıbadem Mehmet",
         "Andrés",
-        "Andrés Ismael"
+        "Andrés Ismael",
+        "Unreasonable",
+        "Unreasonable Man"
     ],
     "edges": [
         "Bradford ===[colliery:]===> Bradford Colliery",
@@ -89,6 +91,7 @@
         "Białka, ===[parczew]===> County: Białka",
         "Terebra ===[fernandesi:]===> Terebra fernandesi",
         "Acıbadem ===[university:]===> Acıbadem Mehmet",
-        "Andrés ===[cunha:]===> Andrés Ismael"
+        "Andrés ===[cunha:]===> Andrés Ismael",
+        "Unreasonable ===[man:]===> Unreasonable Man"
     ]
 }
