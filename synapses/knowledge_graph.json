@@ -59,7 +59,9 @@
         "Andrés",
         "Andrés Ismael",
         "Unreasonable",
-        "Unreasonable Man"
+        "Unreasonable Man",
+        "Mamluk",
+        "(Delhi): The"
     ],
     "edges": [
         "Bradford ===[colliery:]===> Bradford Colliery",
@@ -92,6 +94,7 @@
         "Terebra ===[fernandesi:]===> Terebra fernandesi",
         "Acıbadem ===[university:]===> Acıbadem Mehmet",
         "Andrés ===[cunha:]===> Andrés Ismael",
-        "Unreasonable ===[man:]===> Unreasonable Man"
+        "Unreasonable ===[man:]===> Unreasonable Man",
+        "Mamluk ===[dynasty]===> (Delhi): The"
     ]
 }
