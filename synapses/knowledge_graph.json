@@ -51,7 +51,9 @@
         "Its",
         "High German",
         "Białka,",
-        "County: Białka"
+        "County: Białka",
+        "Terebra",
+        "Terebra fernandesi"
     ],
     "edges": [
         "Bradford ===[colliery:]===> Bradford Colliery",
@@ -80,6 +82,7 @@
         "Dana ===[vollmer:]===> Dana Whitney",
         "Roderick: ===[roderick,]===> Rodrick Roderic",
         "Its ===[old]===> High German",
-        "Białka, ===[parczew]===> County: Białka"
+        "Białka, ===[parczew]===> County: Białka",
+        "Terebra ===[fernandesi:]===> Terebra fernandesi"
     ]
 }
