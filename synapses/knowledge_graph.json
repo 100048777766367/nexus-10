@@ -67,7 +67,11 @@
         "Aysheaiidae:",
         "family lobopodians",
         "This",
-        "contains the"
+        "contains the",
+        "Rowell",
+        "The Rowell",
+        "5-story",
+        "house, was"
     ],
     "edges": [
         "Bradford ===[colliery:]===> Bradford Colliery",
@@ -104,6 +108,8 @@
         "Mamluk ===[dynasty]===> (Delhi): The",
         "Laboratory ===[rat:]===> Laboratory rats,",
         "Aysheaiidae: ===[aysheaiidae]===> family lobopodians",
-        "This ===[family]===> contains the"
+        "This ===[family]===> contains the",
+        "Rowell ===[house:]===> The Rowell",
+        "5-story ===[cape-style]===> house, was"
     ]
 }
