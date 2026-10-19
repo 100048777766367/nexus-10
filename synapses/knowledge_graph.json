@@ -63,7 +63,11 @@
         "Mamluk",
         "(Delhi): The",
         "Laboratory",
-        "Laboratory rats,"
+        "Laboratory rats,",
+        "Aysheaiidae:",
+        "family lobopodians",
+        "This",
+        "contains the"
     ],
     "edges": [
         "Bradford ===[colliery:]===> Bradford Colliery",
@@ -98,6 +102,8 @@
         "Andrés ===[cunha:]===> Andrés Ismael",
         "Unreasonable ===[man:]===> Unreasonable Man",
         "Mamluk ===[dynasty]===> (Delhi): The",
-        "Laboratory ===[rat:]===> Laboratory rats,"
+        "Laboratory ===[rat:]===> Laboratory rats,",
+        "Aysheaiidae: ===[aysheaiidae]===> family lobopodians",
+        "This ===[family]===> contains the"
     ]
 }
