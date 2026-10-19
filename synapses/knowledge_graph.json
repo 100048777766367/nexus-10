@@ -61,7 +61,9 @@
         "Unreasonable",
         "Unreasonable Man",
         "Mamluk",
-        "(Delhi): The"
+        "(Delhi): The",
+        "Laboratory",
+        "Laboratory rats,"
     ],
     "edges": [
         "Bradford ===[colliery:]===> Bradford Colliery",
@@ -95,6 +97,7 @@
         "Acıbadem ===[university:]===> Acıbadem Mehmet",
         "Andrés ===[cunha:]===> Andrés Ismael",
         "Unreasonable ===[man:]===> Unreasonable Man",
-        "Mamluk ===[dynasty]===> (Delhi): The"
+        "Mamluk ===[dynasty]===> (Delhi): The",
+        "Laboratory ===[rat:]===> Laboratory rats,"
     ]
 }
