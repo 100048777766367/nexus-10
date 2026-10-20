@@ -71,7 +71,9 @@
         "Rowell",
         "The Rowell",
         "5-story",
-        "house, was"
+        "house, was",
+        "Nemopsis",
+        "Nemopsis bachei"
     ],
     "edges": [
         "Bradford ===[colliery:]===> Bradford Colliery",
@@ -110,6 +112,7 @@
         "Aysheaiidae: ===[aysheaiidae]===> family lobopodians",
         "This ===[family]===> contains the",
         "Rowell ===[house:]===> The Rowell",
-        "5-story ===[cape-style]===> house, was"
+        "5-story ===[cape-style]===> house, was",
+        "Nemopsis ===[bachei:]===> Nemopsis bachei"
     ]
 }
