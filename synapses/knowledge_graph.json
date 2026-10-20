@@ -75,7 +75,9 @@
         "Nemopsis",
         "Nemopsis bachei",
         "Martin-guillaume",
-        "Martin-Guillaume Biennais"
+        "Martin-Guillaume Biennais",
+        "Helma",
+        "den Berg:"
     ],
     "edges": [
         "Bradford ===[colliery:]===> Bradford Colliery",
@@ -116,6 +118,7 @@
         "Rowell ===[house:]===> The Rowell",
         "5-story ===[cape-style]===> house, was",
         "Nemopsis ===[bachei:]===> Nemopsis bachei",
-        "Martin-guillaume ===[biennais:]===> Martin-Guillaume Biennais"
+        "Martin-guillaume ===[biennais:]===> Martin-Guillaume Biennais",
+        "Helma ===[van]===> den Berg:"
     ]
 }
