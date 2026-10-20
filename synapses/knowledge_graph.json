@@ -73,7 +73,9 @@
         "5-story",
         "house, was",
         "Nemopsis",
-        "Nemopsis bachei"
+        "Nemopsis bachei",
+        "Martin-guillaume",
+        "Martin-Guillaume Biennais"
     ],
     "edges": [
         "Bradford ===[colliery:]===> Bradford Colliery",
@@ -113,6 +115,7 @@
         "This ===[family]===> contains the",
         "Rowell ===[house:]===> The Rowell",
         "5-story ===[cape-style]===> house, was",
-        "Nemopsis ===[bachei:]===> Nemopsis bachei"
+        "Nemopsis ===[bachei:]===> Nemopsis bachei",
+        "Martin-guillaume ===[biennais:]===> Martin-Guillaume Biennais"
     ]
 }
