@@ -79,7 +79,9 @@
         "Helma",
         "den Berg:",
         "Ivan",
-        "Ivan Bokyi"
+        "Ivan Bokyi",
+        "Hinea",
+        "Hinea fasciata"
     ],
     "edges": [
         "Bradford ===[colliery:]===> Bradford Colliery",
@@ -122,6 +124,7 @@
         "Nemopsis ===[bachei:]===> Nemopsis bachei",
         "Martin-guillaume ===[biennais:]===> Martin-Guillaume Biennais",
         "Helma ===[van]===> den Berg:",
-        "Ivan ===[bokyi:]===> Ivan Bokyi"
+        "Ivan ===[bokyi:]===> Ivan Bokyi",
+        "Hinea ===[fasciata:]===> Hinea fasciata"
     ]
 }
