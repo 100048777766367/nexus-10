@@ -87,7 +87,11 @@
         "Was",
         "through Hausu",
         "Siege",
-        "The siege"
+        "The siege",
+        "Kabirhat",
+        "Kabirhat upazila",
+        "Named",
+        "its administ"
     ],
     "edges": [
         "Bradford ===[colliery:]===> Bradford Colliery",
@@ -134,6 +138,8 @@
         "Hinea ===[fasciata:]===> Hinea fasciata",
         "Rip ===[chrysalis:]===> RIP Chrysalis",
         "Was ===[released]===> through Hausu",
-        "Siege ===[pärnu:]===> The siege"
+        "Siege ===[pärnu:]===> The siege",
+        "Kabirhat ===[upazila:]===> Kabirhat upazila",
+        "Named ===[after]===> its administ"
     ]
 }
