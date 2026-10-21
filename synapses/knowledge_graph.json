@@ -81,7 +81,11 @@
         "Ivan",
         "Ivan Bokyi",
         "Hinea",
-        "Hinea fasciata"
+        "Hinea fasciata",
+        "Rip",
+        "RIP Chrysalis",
+        "Was",
+        "through Hausu"
     ],
     "edges": [
         "Bradford ===[colliery:]===> Bradford Colliery",
@@ -125,6 +129,8 @@
         "Martin-guillaume ===[biennais:]===> Martin-Guillaume Biennais",
         "Helma ===[van]===> den Berg:",
         "Ivan ===[bokyi:]===> Ivan Bokyi",
-        "Hinea ===[fasciata:]===> Hinea fasciata"
+        "Hinea ===[fasciata:]===> Hinea fasciata",
+        "Rip ===[chrysalis:]===> RIP Chrysalis",
+        "Was ===[released]===> through Hausu"
     ]
 }
