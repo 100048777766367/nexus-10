@@ -1,6 +1,5 @@
 {
     "nodes": [
-        "Bradford",
         "Bradford Colliery",
         "Although",
         "the Manchester",
@@ -96,7 +95,11 @@
         "Telephone: NMT",
         "Legendary",
         "Tower: Legendary",
-        "The Shield"
+        "The Shield",
+        "Peziza:",
+        "large genus",
+        "Most",
+        "this"
     ],
     "edges": [
         "Bradford ===[colliery:]===> Bradford Colliery",
@@ -148,6 +151,8 @@
         "Named ===[after]===> its administ",
         "Nordic ===[mobile]===> Telephone: NMT",
         "Legendary ===[duck]===> Tower: Legendary",
-        "The ===[shield:]===> The Shield"
+        "The ===[shield:]===> The Shield",
+        "Peziza: ===[peziza]===> large genus",
+        "Most ===[members]===> this"
     ]
 }
