@@ -95,7 +95,8 @@
         "Nordic",
         "Telephone: NMT",
         "Legendary",
-        "Tower: Legendary"
+        "Tower: Legendary",
+        "The Shield"
     ],
     "edges": [
         "Bradford ===[colliery:]===> Bradford Colliery",
@@ -146,6 +147,7 @@
         "Kabirhat ===[upazila:]===> Kabirhat upazila",
         "Named ===[after]===> its administ",
         "Nordic ===[mobile]===> Telephone: NMT",
-        "Legendary ===[duck]===> Tower: Legendary"
+        "Legendary ===[duck]===> Tower: Legendary",
+        "The ===[shield:]===> The Shield"
     ]
 }
