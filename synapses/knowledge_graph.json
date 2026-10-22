@@ -91,7 +91,9 @@
         "Kabirhat",
         "Kabirhat upazila",
         "Named",
-        "its administ"
+        "its administ",
+        "Nordic",
+        "Telephone: NMT"
     ],
     "edges": [
         "Bradford ===[colliery:]===> Bradford Colliery",
@@ -140,6 +142,7 @@
         "Was ===[released]===> through Hausu",
         "Siege ===[pärnu:]===> The siege",
         "Kabirhat ===[upazila:]===> Kabirhat upazila",
-        "Named ===[after]===> its administ"
+        "Named ===[after]===> its administ",
+        "Nordic ===[mobile]===> Telephone: NMT"
     ]
 }
