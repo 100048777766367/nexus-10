@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "the Manchester",
-        "Sapphire-vented",
-        "The sapphire-vented",
-        "Hopkinton,",
         "Hampshire: Hopkinton",
         "The",
         "was 5,914",
@@ -99,7 +95,11 @@
         "Most",
         "this",
         "Ciliatocardium",
-        "Ciliatocardium ciliatum,"
+        "Ciliatocardium ciliatum,",
+        "Interstate",
+        "(Ohio): Interstate",
+        "Km)",
+        "Interstate Highway"
     ],
     "edges": [
         "Bradford ===[colliery:]===> Bradford Colliery",
@@ -154,6 +154,8 @@
         "The ===[shield:]===> The Shield",
         "Peziza: ===[peziza]===> large genus",
         "Most ===[members]===> this",
-        "Ciliatocardium ===[ciliatum:]===> Ciliatocardium ciliatum,"
+        "Ciliatocardium ===[ciliatum:]===> Ciliatocardium ciliatum,",
+        "Interstate ===[280]===> (Ohio): Interstate",
+        "Km) ===[auxiliary]===> Interstate Highway"
     ]
 }

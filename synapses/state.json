@@ -1,6 +1,6 @@
 {
-    "generation_epoch": 40,
-    "last_t": 1792733806,
-    "quantum_cid": "7d683590eb9280b72b3412258bd1573dc6781e4563cc642bb7a7b48d3b3699ba637d4011706b2eabc65223316c8e13a97561ce65dee6d0cd289f9464ef515c71",
+    "generation_epoch": 41,
+    "last_t": 1792763939,
+    "quantum_cid": "a4fd50d0c5b18dd93884dc5d9c4dca3a311bff4aa7b8e728b6f44eff330d22a94cfd1f2e20ca358321055c1e319fd286cfb4747b8a1dc4c2fdec4629fce8a781",
     "status": "decagon_f10_evolved"
 }
