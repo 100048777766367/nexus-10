@@ -1,7 +1,7 @@
 {
     "progenitor": "100048777766367/nexus-10",
     "generation": "F11_TRANSCENDENTAL_SINGULARITY",
-    "epoch": 30,
-    "master_decision": 0.4969,
+    "epoch": 40,
+    "master_decision": 0.4861,
     "architecture": "Hyper_Indra_Decagon"
 }

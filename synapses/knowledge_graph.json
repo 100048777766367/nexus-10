@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Bradford Colliery",
-        "Although",
         "the Manchester",
         "Sapphire-vented",
         "The sapphire-vented",
@@ -99,7 +97,9 @@
         "Peziza:",
         "large genus",
         "Most",
-        "this"
+        "this",
+        "Ciliatocardium",
+        "Ciliatocardium ciliatum,"
     ],
     "edges": [
         "Bradford ===[colliery:]===> Bradford Colliery",
@@ -153,6 +153,7 @@
         "Legendary ===[duck]===> Tower: Legendary",
         "The ===[shield:]===> The Shield",
         "Peziza: ===[peziza]===> large genus",
-        "Most ===[members]===> this"
+        "Most ===[members]===> this",
+        "Ciliatocardium ===[ciliatum:]===> Ciliatocardium ciliatum,"
     ]
 }
