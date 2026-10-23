@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Hampshire: Hopkinton",
-        "The",
         "was 5,914",
         "Kangha:",
         "small wooden",
@@ -99,7 +97,9 @@
         "Interstate",
         "(Ohio): Interstate",
         "Km)",
-        "Interstate Highway"
+        "Interstate Highway",
+        "Intel",
+        "The Intel"
     ],
     "edges": [
         "Bradford ===[colliery:]===> Bradford Colliery",
@@ -156,6 +156,7 @@
         "Most ===[members]===> this",
         "Ciliatocardium ===[ciliatum:]===> Ciliatocardium ciliatum,",
         "Interstate ===[280]===> (Ohio): Interstate",
-        "Km) ===[auxiliary]===> Interstate Highway"
+        "Km) ===[auxiliary]===> Interstate Highway",
+        "Intel ===[8283:]===> The Intel"
     ]
 }
