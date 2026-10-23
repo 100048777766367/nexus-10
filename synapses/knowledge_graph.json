@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "was 5,914",
-        "Kangha:",
         "small wooden",
         "Adıyaman",
         "Museum: Adıyaman",
@@ -99,7 +97,9 @@
         "Km)",
         "Interstate Highway",
         "Intel",
-        "The Intel"
+        "The Intel",
+        "Robert",
+        "Robert Roelofsen"
     ],
     "edges": [
         "Bradford ===[colliery:]===> Bradford Colliery",
@@ -157,6 +157,7 @@
         "Ciliatocardium ===[ciliatum:]===> Ciliatocardium ciliatum,",
         "Interstate ===[280]===> (Ohio): Interstate",
         "Km) ===[auxiliary]===> Interstate Highway",
-        "Intel ===[8283:]===> The Intel"
+        "Intel ===[8283:]===> The Intel",
+        "Robert ===[roelofsen:]===> Robert Roelofsen"
     ]
 }
