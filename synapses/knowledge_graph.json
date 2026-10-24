@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Stinson",
-        "Municipal Airport:",
         "Waterlandkerkje:",
         "village the",
         "municipality Sluis",
@@ -99,7 +97,9 @@
         "Micropeltidaceae are",
         "Moshik",
         "Moshe Aharon",
-        "chef restaurant"
+        "chef restaurant",
+        "Molèdes:",
+        "commune the"
     ],
     "edges": [
         "Bradford ===[colliery:]===> Bradford Colliery",
@@ -161,6 +161,7 @@
         "Robert ===[roelofsen:]===> Robert Roelofsen",
         "Micropeltidaceae: ===[the]===> Micropeltidaceae are",
         "Moshik ===[roth:]===> Moshe Aharon",
-        "Was ===[head]===> chef restaurant"
+        "Was ===[head]===> chef restaurant",
+        "Molèdes: ===[molèdes]===> commune the"
     ]
 }
