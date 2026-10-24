@@ -1,8 +1,5 @@
 {
     "nodes": [
-        "Museum: Adıyaman",
-        "Located",
-        "corner",
         "Stinson",
         "Municipal Airport:",
         "Waterlandkerkje:",
@@ -99,7 +96,10 @@
         "Robert",
         "Robert Roelofsen",
         "Micropeltidaceae:",
-        "Micropeltidaceae are"
+        "Micropeltidaceae are",
+        "Moshik",
+        "Moshe Aharon",
+        "chef restaurant"
     ],
     "edges": [
         "Bradford ===[colliery:]===> Bradford Colliery",
@@ -159,6 +159,8 @@
         "Km) ===[auxiliary]===> Interstate Highway",
         "Intel ===[8283:]===> The Intel",
         "Robert ===[roelofsen:]===> Robert Roelofsen",
-        "Micropeltidaceae: ===[the]===> Micropeltidaceae are"
+        "Micropeltidaceae: ===[the]===> Micropeltidaceae are",
+        "Moshik ===[roth:]===> Moshe Aharon",
+        "Was ===[head]===> chef restaurant"
     ]
 }
