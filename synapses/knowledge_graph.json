@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "small wooden",
-        "Adıyaman",
         "Museum: Adıyaman",
         "Located",
         "corner",
@@ -99,7 +97,9 @@
         "Intel",
         "The Intel",
         "Robert",
-        "Robert Roelofsen"
+        "Robert Roelofsen",
+        "Micropeltidaceae:",
+        "Micropeltidaceae are"
     ],
     "edges": [
         "Bradford ===[colliery:]===> Bradford Colliery",
@@ -158,6 +158,7 @@
         "Interstate ===[280]===> (Ohio): Interstate",
         "Km) ===[auxiliary]===> Interstate Highway",
         "Intel ===[8283:]===> The Intel",
-        "Robert ===[roelofsen:]===> Robert Roelofsen"
+        "Robert ===[roelofsen:]===> Robert Roelofsen",
+        "Micropeltidaceae: ===[the]===> Micropeltidaceae are"
     ]
 }
