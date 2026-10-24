@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Waterlandkerkje:",
-        "village the",
         "municipality Sluis",
         "Grimson",
         "family): The",
@@ -99,7 +97,9 @@
         "Moshe Aharon",
         "chef restaurant",
         "Molèdes:",
-        "commune the"
+        "commune the",
+        "Sylvicanthon:",
+        "genus beetles"
     ],
     "edges": [
         "Bradford ===[colliery:]===> Bradford Colliery",
@@ -162,6 +162,7 @@
         "Micropeltidaceae: ===[the]===> Micropeltidaceae are",
         "Moshik ===[roth:]===> Moshe Aharon",
         "Was ===[head]===> chef restaurant",
-        "Molèdes: ===[molèdes]===> commune the"
+        "Molèdes: ===[molèdes]===> commune the",
+        "Sylvicanthon: ===[sylvicanthon]===> genus beetles"
     ]
 }
