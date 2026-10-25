@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "family): The",
-        "Avraham",
-        "(politician): Avraham",
-        "Tingena",
         "Tingena ancogramma",
         "Endemic",
         "Zealand and",
@@ -99,7 +95,11 @@
         "Sylvicanthon:",
         "genus beetles",
         "Soyez",
-        "vous serez"
+        "vous serez",
+        "Transmission",
+        "EP): Transmission",
+        "The",
+        "track cover"
     ],
     "edges": [
         "Bradford ===[colliery:]===> Bradford Colliery",
@@ -164,6 +164,8 @@
         "Was ===[head]===> chef restaurant",
         "Molèdes: ===[molèdes]===> commune the",
         "Sylvicanthon: ===[sylvicanthon]===> genus beetles",
-        "Soyez ===[amoureuses]===> vous serez"
+        "Soyez ===[amoureuses]===> vous serez",
+        "Transmission ===[(low]===> EP): Transmission",
+        "The ===[title]===> track cover"
     ]
 }
