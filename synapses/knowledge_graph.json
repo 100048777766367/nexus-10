@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "Zealand and",
-        "Béatrix:",
-        "1839 novel",
-        "Tua",
         "station: The",
         "América",
         "Clube (GO):",
@@ -99,7 +95,11 @@
         "The",
         "track cover",
         "University",
-        "(Tbilisi): The"
+        "(Tbilisi): The",
+        "Djibo",
+        "Djibo Bakary",
+        "Bakary",
+        "the"
     ],
     "edges": [
         "Bradford ===[colliery:]===> Bradford Colliery",
@@ -167,6 +167,8 @@
         "Soyez ===[amoureuses]===> vous serez",
         "Transmission ===[(low]===> EP): Transmission",
         "The ===[title]===> track cover",
-        "University ===[georgia]===> (Tbilisi): The"
+        "University ===[georgia]===> (Tbilisi): The",
+        "Djibo ===[bakary:]===> Djibo Bakary",
+        "Bakary ===[was]===> the"
     ]
 }
