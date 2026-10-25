@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Tingena ancogramma",
-        "Endemic",
         "Zealand and",
         "Béatrix:",
         "1839 novel",
@@ -99,7 +97,9 @@
         "Transmission",
         "EP): Transmission",
         "The",
-        "track cover"
+        "track cover",
+        "University",
+        "(Tbilisi): The"
     ],
     "edges": [
         "Bradford ===[colliery:]===> Bradford Colliery",
@@ -166,6 +166,7 @@
         "Sylvicanthon: ===[sylvicanthon]===> genus beetles",
         "Soyez ===[amoureuses]===> vous serez",
         "Transmission ===[(low]===> EP): Transmission",
-        "The ===[title]===> track cover"
+        "The ===[title]===> track cover",
+        "University ===[georgia]===> (Tbilisi): The"
     ]
 }
