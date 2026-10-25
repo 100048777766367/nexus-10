@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "municipality Sluis",
-        "Grimson",
         "family): The",
         "Avraham",
         "(politician): Avraham",
@@ -99,7 +97,9 @@
         "Molèdes:",
         "commune the",
         "Sylvicanthon:",
-        "genus beetles"
+        "genus beetles",
+        "Soyez",
+        "vous serez"
     ],
     "edges": [
         "Bradford ===[colliery:]===> Bradford Colliery",
@@ -163,6 +163,7 @@
         "Moshik ===[roth:]===> Moshe Aharon",
         "Was ===[head]===> chef restaurant",
         "Molèdes: ===[molèdes]===> commune the",
-        "Sylvicanthon: ===[sylvicanthon]===> genus beetles"
+        "Sylvicanthon: ===[sylvicanthon]===> genus beetles",
+        "Soyez ===[amoureuses]===> vous serez"
     ]
 }
