@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Madama",
-        "Madama Lucrezia",
         "Pasquinades",
         "satires poking",
         "Jake",
@@ -99,7 +97,9 @@
         "Kuttappan",
         "Indian National",
         "Elected",
-        "the Legislative"
+        "the Legislative",
+        "Decimiana",
+        "Decimiana hebardi"
     ],
     "edges": [
         "Bradford ===[colliery:]===> Bradford Colliery",
@@ -171,6 +171,7 @@
         "Djibo ===[bakary:]===> Djibo Bakary",
         "Bakary ===[was]===> the",
         "Kuttappan ===[was]===> Indian National",
-        "Elected ===[member]===> the Legislative"
+        "Elected ===[member]===> the Legislative",
+        "Decimiana ===[hebardi:]===> Decimiana hebardi"
     ]
 }
