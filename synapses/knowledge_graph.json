@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "Pasquinades",
-        "satires poking",
-        "Jake",
-        "Jake Bird",
         "Friend,",
         "Friend, Kolka!",
         "Dana",
@@ -99,7 +95,11 @@
         "Elected",
         "the Legislative",
         "Decimiana",
-        "Decimiana hebardi"
+        "Decimiana hebardi",
+        "Boldecker",
+        "Boldecker Land",
+        "Situated",
+        "the river"
     ],
     "edges": [
         "Bradford ===[colliery:]===> Bradford Colliery",
@@ -172,6 +172,8 @@
         "Bakary ===[was]===> the",
         "Kuttappan ===[was]===> Indian National",
         "Elected ===[member]===> the Legislative",
-        "Decimiana ===[hebardi:]===> Decimiana hebardi"
+        "Decimiana ===[hebardi:]===> Decimiana hebardi",
+        "Boldecker ===[land:]===> Boldecker Land",
+        "Situated ===[along]===> the river"
     ]
 }
