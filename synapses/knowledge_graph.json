@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "station: The",
-        "América",
-        "Clube (GO):",
-        "was founded",
         "Madama",
         "Madama Lucrezia",
         "Pasquinades",
@@ -99,7 +95,11 @@
         "Djibo",
         "Djibo Bakary",
         "Bakary",
-        "the"
+        "the",
+        "Kuttappan",
+        "Indian National",
+        "Elected",
+        "the Legislative"
     ],
     "edges": [
         "Bradford ===[colliery:]===> Bradford Colliery",
@@ -169,6 +169,8 @@
         "The ===[title]===> track cover",
         "University ===[georgia]===> (Tbilisi): The",
         "Djibo ===[bakary:]===> Djibo Bakary",
-        "Bakary ===[was]===> the"
+        "Bakary ===[was]===> the",
+        "Kuttappan ===[was]===> Indian National",
+        "Elected ===[member]===> the Legislative"
     ]
 }
