@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Roderick:",
-        "Rodrick Roderic",
         "Its",
         "High German",
         "Białka,",
@@ -99,7 +97,9 @@
         "Moulin Rouge:",
         "Jj72",
         "JJ72 the",
-        "August 2000"
+        "August 2000",
+        "Dick",
+        "Richard Lewis"
     ],
     "edges": [
         "Bradford ===[colliery:]===> Bradford Colliery",
@@ -177,6 +177,7 @@
         "Situated ===[along]===> the river",
         "The ===[queen]===> Moulin Rouge:",
         "Jj72 ===[(album):]===> JJ72 the",
-        "Was ===[released]===> August 2000"
+        "Was ===[released]===> August 2000",
+        "Dick ===[thornburgh:]===> Richard Lewis"
     ]
 }
