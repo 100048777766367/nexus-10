@@ -1,8 +1,5 @@
 {
     "nodes": [
-        "Friend, Kolka!",
-        "Dana",
-        "Dana Whitney",
         "Roderick:",
         "Rodrick Roderic",
         "Its",
@@ -99,7 +96,10 @@
         "Boldecker Land",
         "Situated",
         "the river",
-        "Moulin Rouge:"
+        "Moulin Rouge:",
+        "Jj72",
+        "JJ72 the",
+        "August 2000"
     ],
     "edges": [
         "Bradford ===[colliery:]===> Bradford Colliery",
@@ -175,6 +175,8 @@
         "Decimiana ===[hebardi:]===> Decimiana hebardi",
         "Boldecker ===[land:]===> Boldecker Land",
         "Situated ===[along]===> the river",
-        "The ===[queen]===> Moulin Rouge:"
+        "The ===[queen]===> Moulin Rouge:",
+        "Jj72 ===[(album):]===> JJ72 the",
+        "Was ===[released]===> August 2000"
     ]
 }
