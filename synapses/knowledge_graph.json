@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "County: Białka",
-        "Terebra",
-        "Terebra fernandesi",
-        "Acıbadem",
         "Acıbadem Mehmet",
         "Andrés",
         "Andrés Ismael",
@@ -99,7 +95,11 @@
         "Richard Lewis",
         "San",
         "Day: San",
-        "final battle"
+        "final battle",
+        "Rienz:",
+        "Rienz river",
+        "Its",
+        "located 2,180"
     ],
     "edges": [
         "Bradford ===[colliery:]===> Bradford Colliery",
@@ -180,6 +180,8 @@
         "Was ===[released]===> August 2000",
         "Dick ===[thornburgh:]===> Richard Lewis",
         "San ===[jacinto]===> Day: San",
-        "Was ===[the]===> final battle"
+        "Was ===[the]===> final battle",
+        "Rienz: ===[the]===> Rienz river",
+        "Its ===[source]===> located 2,180"
     ]
 }
