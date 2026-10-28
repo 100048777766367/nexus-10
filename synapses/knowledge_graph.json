@@ -1,8 +1,5 @@
 {
     "nodes": [
-        "Its",
-        "High German",
-        "Białka,",
         "County: Białka",
         "Terebra",
         "Terebra fernandesi",
@@ -99,7 +96,10 @@
         "JJ72 the",
         "August 2000",
         "Dick",
-        "Richard Lewis"
+        "Richard Lewis",
+        "San",
+        "Day: San",
+        "final battle"
     ],
     "edges": [
         "Bradford ===[colliery:]===> Bradford Colliery",
@@ -178,6 +178,8 @@
         "The ===[queen]===> Moulin Rouge:",
         "Jj72 ===[(album):]===> JJ72 the",
         "Was ===[released]===> August 2000",
-        "Dick ===[thornburgh:]===> Richard Lewis"
+        "Dick ===[thornburgh:]===> Richard Lewis",
+        "San ===[jacinto]===> Day: San",
+        "Was ===[the]===> final battle"
     ]
 }
