@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Acıbadem Mehmet",
-        "Andrés",
         "Andrés Ismael",
         "Unreasonable",
         "Unreasonable Man",
@@ -99,7 +97,9 @@
         "Rienz:",
         "Rienz river",
         "Its",
-        "located 2,180"
+        "located 2,180",
+        "Amphipterygium:",
+        "small genus"
     ],
     "edges": [
         "Bradford ===[colliery:]===> Bradford Colliery",
@@ -182,6 +182,7 @@
         "San ===[jacinto]===> Day: San",
         "Was ===[the]===> final battle",
         "Rienz: ===[the]===> Rienz river",
-        "Its ===[source]===> located 2,180"
+        "Its ===[source]===> located 2,180",
+        "Amphipterygium: ===[amphipterygium]===> small genus"
     ]
 }
