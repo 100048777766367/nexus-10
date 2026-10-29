@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "(Delhi): The",
-        "Laboratory",
-        "Laboratory rats,",
-        "Aysheaiidae:",
         "family lobopodians",
         "This",
         "contains the",
@@ -99,7 +95,11 @@
         "Boldhusgade:",
         "short, cobbled",
         "Runs",
-        "Ved Stranden"
+        "Ved Stranden",
+        "Francesco",
+        "Francesco Gostoli",
+        "Has",
+        "great number"
     ],
     "edges": [
         "Bradford ===[colliery:]===> Bradford Colliery",
@@ -185,6 +185,8 @@
         "Its ===[source]===> located 2,180",
         "Amphipterygium: ===[amphipterygium]===> small genus",
         "Boldhusgade: ===[boldhusgade]===> short, cobbled",
-        "Runs ===[from]===> Ved Stranden"
+        "Runs ===[from]===> Ved Stranden",
+        "Francesco ===[gostoli:]===> Francesco Gostoli",
+        "Has ===[written]===> great number"
     ]
 }
