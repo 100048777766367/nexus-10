@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "Andrés Ismael",
-        "Unreasonable",
-        "Unreasonable Man",
-        "Mamluk",
         "(Delhi): The",
         "Laboratory",
         "Laboratory rats,",
@@ -99,7 +95,11 @@
         "Its",
         "located 2,180",
         "Amphipterygium:",
-        "small genus"
+        "small genus",
+        "Boldhusgade:",
+        "short, cobbled",
+        "Runs",
+        "Ved Stranden"
     ],
     "edges": [
         "Bradford ===[colliery:]===> Bradford Colliery",
@@ -183,6 +183,8 @@
         "Was ===[the]===> final battle",
         "Rienz: ===[the]===> Rienz river",
         "Its ===[source]===> located 2,180",
-        "Amphipterygium: ===[amphipterygium]===> small genus"
+        "Amphipterygium: ===[amphipterygium]===> small genus",
+        "Boldhusgade: ===[boldhusgade]===> short, cobbled",
+        "Runs ===[from]===> Ved Stranden"
     ]
 }
