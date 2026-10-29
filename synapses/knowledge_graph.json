@@ -1,11 +1,5 @@
 {
     "nodes": [
-        "family lobopodians",
-        "This",
-        "contains the",
-        "Rowell",
-        "The Rowell",
-        "5-story",
         "house, was",
         "Nemopsis",
         "Nemopsis bachei",
@@ -99,7 +93,13 @@
         "Francesco",
         "Francesco Gostoli",
         "Has",
-        "great number"
+        "great number",
+        "Then",
+        "You",
+        "Song):",
+        "Came You\"",
+        "From",
+        "album"
     ],
     "edges": [
         "Bradford ===[colliery:]===> Bradford Colliery",
@@ -187,6 +187,9 @@
         "Boldhusgade: ===[boldhusgade]===> short, cobbled",
         "Runs ===[from]===> Ved Stranden",
         "Francesco ===[gostoli:]===> Francesco Gostoli",
-        "Has ===[written]===> great number"
+        "Has ===[written]===> great number",
+        "Then ===[came]===> You",
+        "Song): ===[\"then]===> Came You\"",
+        "From ===[their]===> album"
     ]
 }
