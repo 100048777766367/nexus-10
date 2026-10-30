@@ -1,8 +1,5 @@
 {
     "nodes": [
-        "Nemopsis bachei",
-        "Martin-guillaume",
-        "Martin-Guillaume Biennais",
         "Helma",
         "den Berg:",
         "Ivan",
@@ -99,7 +96,10 @@
         "From",
         "album",
         "Chollima-091:",
-        "Chollima-091 (Korean:"
+        "Chollima-091 (Korean:",
+        "Lamaline:",
+        "town the",
+        "had population"
     ],
     "edges": [
         "Bradford ===[colliery:]===> Bradford Colliery",
@@ -191,6 +191,8 @@
         "Then ===[came]===> You",
         "Song): ===[\"then]===> Came You\"",
         "From ===[their]===> album",
-        "Chollima-091: ===[the]===> Chollima-091 (Korean:"
+        "Chollima-091: ===[the]===> Chollima-091 (Korean:",
+        "Lamaline: ===[lamaline]===> town the",
+        "The ===[town]===> had population"
     ]
 }

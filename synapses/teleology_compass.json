@@ -1,16 +1,16 @@
 {
-    "paramitas_10d_score": 0.9517,
+    "paramitas_10d_score": 0.9491,
     "paramitas": {
-        "dana": 0.9938,
-        "sila": 0.9922,
-        "khanti": 0.9948,
-        "viriya": 0.8052,
-        "dhyana": 0.9906,
-        "prajna": 1.0,
-        "upaya": 0.8526,
-        "pranidhana": 0.9927,
-        "bala": 0.901,
-        "jnana": 0.9943
+        "dana": 0.9887,
+        "sila": 0.9859,
+        "khanti": 0.9906,
+        "viriya": 0.8094,
+        "dhyana": 0.9831,
+        "prajna": 0.9999,
+        "upaya": 0.8547,
+        "pranidhana": 0.9868,
+        "bala": 0.9019,
+        "jnana": 0.9897
     },
     "veto": false
 }
