@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "house, was",
-        "Nemopsis",
         "Nemopsis bachei",
         "Martin-guillaume",
         "Martin-Guillaume Biennais",
@@ -99,7 +97,9 @@
         "Song):",
         "Came You\"",
         "From",
-        "album"
+        "album",
+        "Chollima-091:",
+        "Chollima-091 (Korean:"
     ],
     "edges": [
         "Bradford ===[colliery:]===> Bradford Colliery",
@@ -190,6 +190,7 @@
         "Has ===[written]===> great number",
         "Then ===[came]===> You",
         "Song): ===[\"then]===> Came You\"",
-        "From ===[their]===> album"
+        "From ===[their]===> album",
+        "Chollima-091: ===[the]===> Chollima-091 (Korean:"
     ]
 }
