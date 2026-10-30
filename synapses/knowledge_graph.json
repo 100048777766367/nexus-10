@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Helma",
-        "den Berg:",
         "Ivan",
         "Ivan Bokyi",
         "Hinea",
@@ -99,7 +97,9 @@
         "Chollima-091 (Korean:",
         "Lamaline:",
         "town the",
-        "had population"
+        "had population",
+        "Mataranga",
+        "The Matranga,"
     ],
     "edges": [
         "Bradford ===[colliery:]===> Bradford Colliery",
@@ -193,6 +193,7 @@
         "From ===[their]===> album",
         "Chollima-091: ===[the]===> Chollima-091 (Korean:",
         "Lamaline: ===[lamaline]===> town the",
-        "The ===[town]===> had population"
+        "The ===[town]===> had population",
+        "Mataranga ===[family:]===> The Matranga,"
     ]
 }
