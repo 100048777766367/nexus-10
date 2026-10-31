@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Was",
-        "through Hausu",
         "Siege",
         "The siege",
         "Kabirhat",
@@ -99,7 +97,9 @@
         "Capitol",
         "Denver: The",
         "Reggie",
-        "Reggie King"
+        "Reggie King",
+        "Stepanavan",
+        "Officially Sochut"
     ],
     "edges": [
         "Bradford ===[colliery:]===> Bradford Colliery",
@@ -197,6 +197,7 @@
         "Mataranga ===[family:]===> The Matranga,",
         "Assault ===[engineering]===> Brigades: Assault",
         "Capitol ===[hill,]===> Denver: The",
-        "Reggie ===[sears:]===> Reggie King"
+        "Reggie ===[sears:]===> Reggie King",
+        "Stepanavan ===[dendropark:]===> Officially Sochut"
     ]
 }
