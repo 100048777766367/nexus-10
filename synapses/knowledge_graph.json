@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Rip",
-        "RIP Chrysalis",
         "Was",
         "through Hausu",
         "Siege",
@@ -99,7 +97,9 @@
         "Assault",
         "Brigades: Assault",
         "Capitol",
-        "Denver: The"
+        "Denver: The",
+        "Reggie",
+        "Reggie King"
     ],
     "edges": [
         "Bradford ===[colliery:]===> Bradford Colliery",
@@ -196,6 +196,7 @@
         "The ===[town]===> had population",
         "Mataranga ===[family:]===> The Matranga,",
         "Assault ===[engineering]===> Brigades: Assault",
-        "Capitol ===[hill,]===> Denver: The"
+        "Capitol ===[hill,]===> Denver: The",
+        "Reggie ===[sears:]===> Reggie King"
     ]
 }
