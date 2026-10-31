@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Hinea",
-        "Hinea fasciata",
         "Rip",
         "RIP Chrysalis",
         "Was",
@@ -99,7 +97,9 @@
         "Mataranga",
         "The Matranga,",
         "Assault",
-        "Brigades: Assault"
+        "Brigades: Assault",
+        "Capitol",
+        "Denver: The"
     ],
     "edges": [
         "Bradford ===[colliery:]===> Bradford Colliery",
@@ -195,6 +195,7 @@
         "Lamaline: ===[lamaline]===> town the",
         "The ===[town]===> had population",
         "Mataranga ===[family:]===> The Matranga,",
-        "Assault ===[engineering]===> Brigades: Assault"
+        "Assault ===[engineering]===> Brigades: Assault",
+        "Capitol ===[hill,]===> Denver: The"
     ]
 }
