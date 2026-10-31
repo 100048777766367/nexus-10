@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Ivan",
-        "Ivan Bokyi",
         "Hinea",
         "Hinea fasciata",
         "Rip",
@@ -99,7 +97,9 @@
         "town the",
         "had population",
         "Mataranga",
-        "The Matranga,"
+        "The Matranga,",
+        "Assault",
+        "Brigades: Assault"
     ],
     "edges": [
         "Bradford ===[colliery:]===> Bradford Colliery",
@@ -194,6 +194,7 @@
         "Chollima-091: ===[the]===> Chollima-091 (Korean:",
         "Lamaline: ===[lamaline]===> town the",
         "The ===[town]===> had population",
-        "Mataranga ===[family:]===> The Matranga,"
+        "Mataranga ===[family:]===> The Matranga,",
+        "Assault ===[engineering]===> Brigades: Assault"
     ]
 }
