@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Kabirhat upazila",
-        "Named",
         "its administ",
         "Nordic",
         "Telephone: NMT",
@@ -99,7 +97,9 @@
         "Officially Sochut",
         "1959–1974: the",
         "Not:",
-        "Not\" song"
+        "Not\" song",
+        "Bom",
+        "das Selvas:"
     ],
     "edges": [
         "Bradford ===[colliery:]===> Bradford Colliery",
@@ -200,6 +200,7 @@
         "Reggie ===[sears:]===> Reggie King",
         "Stepanavan ===[dendropark:]===> Officially Sochut",
         "The ===[movies]===> 1959–1974: the",
-        "Not: ===[\"do]===> Not\" song"
+        "Not: ===[\"do]===> Not\" song",
+        "Bom ===[jesus]===> das Selvas:"
     ]
 }
