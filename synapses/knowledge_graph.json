@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "its administ",
-        "Nordic",
         "Telephone: NMT",
         "Legendary",
         "Tower: Legendary",
@@ -99,7 +97,9 @@
         "Not:",
         "Not\" song",
         "Bom",
-        "das Selvas:"
+        "das Selvas:",
+        "Strong-willed",
+        "The Strong-Willed"
     ],
     "edges": [
         "Bradford ===[colliery:]===> Bradford Colliery",
@@ -201,6 +201,7 @@
         "Stepanavan ===[dendropark:]===> Officially Sochut",
         "The ===[movies]===> 1959–1974: the",
         "Not: ===[\"do]===> Not\" song",
-        "Bom ===[jesus]===> das Selvas:"
+        "Bom ===[jesus]===> das Selvas:",
+        "Strong-willed ===[pig:]===> The Strong-Willed"
     ]
 }
