@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Telephone: NMT",
-        "Legendary",
         "Tower: Legendary",
         "The Shield",
         "Peziza:",
@@ -99,7 +97,9 @@
         "Bom",
         "das Selvas:",
         "Strong-willed",
-        "The Strong-Willed"
+        "The Strong-Willed",
+        "Six",
+        "Eaux Froides:"
     ],
     "edges": [
         "Bradford ===[colliery:]===> Bradford Colliery",
@@ -202,6 +202,7 @@
         "The ===[movies]===> 1959–1974: the",
         "Not: ===[\"do]===> Not\" song",
         "Bom ===[jesus]===> das Selvas:",
-        "Strong-willed ===[pig:]===> The Strong-Willed"
+        "Strong-willed ===[pig:]===> The Strong-Willed",
+        "Six ===[des]===> Eaux Froides:"
     ]
 }
