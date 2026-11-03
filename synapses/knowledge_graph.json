@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "Peziza:",
-        "large genus",
-        "Most",
-        "this",
         "Ciliatocardium",
         "Ciliatocardium ciliatum,",
         "Interstate",
@@ -99,7 +95,11 @@
         "Six",
         "Eaux Froides:",
         "Battle",
-        "(1939): The"
+        "(1939): The",
+        "Undead",
+        "Undead Indeed",
+        "Was",
+        "Rupla Club,"
     ],
     "edges": [
         "Bradford ===[colliery:]===> Bradford Colliery",
@@ -204,6 +204,8 @@
         "Bom ===[jesus]===> das Selvas:",
         "Strong-willed ===[pig:]===> The Strong-Willed",
         "Six ===[des]===> Eaux Froides:",
-        "Battle ===[minorca]===> (1939): The"
+        "Battle ===[minorca]===> (1939): The",
+        "Undead ===[indeed:]===> Undead Indeed",
+        "Was ===[recorded]===> Rupla Club,"
     ]
 }
