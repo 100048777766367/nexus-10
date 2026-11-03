@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Tower: Legendary",
-        "The Shield",
         "Peziza:",
         "large genus",
         "Most",
@@ -99,7 +97,9 @@
         "Strong-willed",
         "The Strong-Willed",
         "Six",
-        "Eaux Froides:"
+        "Eaux Froides:",
+        "Battle",
+        "(1939): The"
     ],
     "edges": [
         "Bradford ===[colliery:]===> Bradford Colliery",
@@ -203,6 +203,7 @@
         "Not: ===[\"do]===> Not\" song",
         "Bom ===[jesus]===> das Selvas:",
         "Strong-willed ===[pig:]===> The Strong-Willed",
-        "Six ===[des]===> Eaux Froides:"
+        "Six ===[des]===> Eaux Froides:",
+        "Battle ===[minorca]===> (1939): The"
     ]
 }
