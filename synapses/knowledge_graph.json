@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Ciliatocardium",
-        "Ciliatocardium ciliatum,",
         "Interstate",
         "(Ohio): Interstate",
         "Km)",
@@ -99,7 +97,9 @@
         "Undead",
         "Undead Indeed",
         "Was",
-        "Rupla Club,"
+        "Rupla Club,",
+        "Pilcher",
+        "Pilcher Rawlins"
     ],
     "edges": [
         "Bradford ===[colliery:]===> Bradford Colliery",
@@ -206,6 +206,7 @@
         "Six ===[des]===> Eaux Froides:",
         "Battle ===[minorca]===> (1939): The",
         "Undead ===[indeed:]===> Undead Indeed",
-        "Was ===[recorded]===> Rupla Club,"
+        "Was ===[recorded]===> Rupla Club,",
+        "Pilcher ===[rawlins:]===> Pilcher Rawlins"
     ]
 }
