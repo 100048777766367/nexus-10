@@ -1,8 +1,5 @@
 {
     "nodes": [
-        "Intel",
-        "The Intel",
-        "Robert",
         "Robert Roelofsen",
         "Micropeltidaceae:",
         "Micropeltidaceae are",
@@ -99,7 +96,10 @@
         "Cranbrook,",
         "Columbia: Cranbrook",
         "Mi)",
-        "the conflue"
+        "the conflue",
+        "Lushnjë:",
+        "city and",
+        "population 63,135"
     ],
     "edges": [
         "Bradford ===[colliery:]===> Bradford Colliery",
@@ -209,6 +209,8 @@
         "Was ===[recorded]===> Rupla Club,",
         "Pilcher ===[rawlins:]===> Pilcher Rawlins",
         "Cranbrook, ===[british]===> Columbia: Cranbrook",
-        "Mi) ===[southwest]===> the conflue"
+        "Mi) ===[southwest]===> the conflue",
+        "Lushnjë: ===[lushnjë]===> city and",
+        "The ===[municipality's]===> population 63,135"
     ]
 }
