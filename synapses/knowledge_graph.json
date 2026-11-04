@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "Interstate",
-        "(Ohio): Interstate",
-        "Km)",
-        "Interstate Highway",
         "Intel",
         "The Intel",
         "Robert",
@@ -99,7 +95,11 @@
         "Was",
         "Rupla Club,",
         "Pilcher",
-        "Pilcher Rawlins"
+        "Pilcher Rawlins",
+        "Cranbrook,",
+        "Columbia: Cranbrook",
+        "Mi)",
+        "the conflue"
     ],
     "edges": [
         "Bradford ===[colliery:]===> Bradford Colliery",
@@ -207,6 +207,8 @@
         "Battle ===[minorca]===> (1939): The",
         "Undead ===[indeed:]===> Undead Indeed",
         "Was ===[recorded]===> Rupla Club,",
-        "Pilcher ===[rawlins:]===> Pilcher Rawlins"
+        "Pilcher ===[rawlins:]===> Pilcher Rawlins",
+        "Cranbrook, ===[british]===> Columbia: Cranbrook",
+        "Mi) ===[southwest]===> the conflue"
     ]
 }
