@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Robert Roelofsen",
-        "Micropeltidaceae:",
         "Micropeltidaceae are",
         "Moshik",
         "Moshe Aharon",
@@ -99,7 +97,9 @@
         "the conflue",
         "Lushnjë:",
         "city and",
-        "population 63,135"
+        "population 63,135",
+        "Erlanger",
+        "Sombrero Phosphate"
     ],
     "edges": [
         "Bradford ===[colliery:]===> Bradford Colliery",
@@ -211,6 +211,7 @@
         "Cranbrook, ===[british]===> Columbia: Cranbrook",
         "Mi) ===[southwest]===> the conflue",
         "Lushnjë: ===[lushnjë]===> city and",
-        "The ===[municipality's]===> population 63,135"
+        "The ===[municipality's]===> population 63,135",
+        "Erlanger ===[new]===> Sombrero Phosphate"
     ]
 }
