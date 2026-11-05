@@ -1,8 +1,5 @@
 {
     "nodes": [
-        "Micropeltidaceae are",
-        "Moshik",
-        "Moshe Aharon",
         "chef restaurant",
         "Molèdes:",
         "commune the",
@@ -99,7 +96,10 @@
         "city and",
         "population 63,135",
         "Erlanger",
-        "Sombrero Phosphate"
+        "Sombrero Phosphate",
+        "Yugoslav",
+        "(basketball team):",
+        "basketball section"
     ],
     "edges": [
         "Bradford ===[colliery:]===> Bradford Colliery",
@@ -212,6 +212,8 @@
         "Mi) ===[southwest]===> the conflue",
         "Lushnjë: ===[lushnjë]===> city and",
         "The ===[municipality's]===> population 63,135",
-        "Erlanger ===[new]===> Sombrero Phosphate"
+        "Erlanger ===[new]===> Sombrero Phosphate",
+        "Yugoslav ===[army]===> (basketball team):",
+        "Was ===[the]===> basketball section"
     ]
 }
