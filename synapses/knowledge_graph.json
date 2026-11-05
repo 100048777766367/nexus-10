@@ -1,8 +1,5 @@
 {
     "nodes": [
-        "genus beetles",
-        "Soyez",
-        "vous serez",
         "Transmission",
         "EP): Transmission",
         "The",
@@ -99,7 +96,10 @@
         "Lucia",
         "Lucia Gai",
         "She",
-        "Prop for"
+        "Prop for",
+        "Katka",
+        "Belokranjka Katka",
+        "wrote Slovene-language"
     ],
     "edges": [
         "Bradford ===[colliery:]===> Bradford Colliery",
@@ -216,6 +216,8 @@
         "Yugoslav ===[army]===> (basketball team):",
         "Was ===[the]===> basketball section",
         "Lucia ===[gai:]===> Lucia Gai",
-        "She ===[plays]===> Prop for"
+        "She ===[plays]===> Prop for",
+        "Katka ===[zupančič:]===> Belokranjka Katka",
+        "She ===[primarily]===> wrote Slovene-language"
     ]
 }
