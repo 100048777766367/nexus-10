@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "chef restaurant",
-        "Molèdes:",
-        "commune the",
-        "Sylvicanthon:",
         "genus beetles",
         "Soyez",
         "vous serez",
@@ -99,7 +95,11 @@
         "Sombrero Phosphate",
         "Yugoslav",
         "(basketball team):",
-        "basketball section"
+        "basketball section",
+        "Lucia",
+        "Lucia Gai",
+        "She",
+        "Prop for"
     ],
     "edges": [
         "Bradford ===[colliery:]===> Bradford Colliery",
@@ -214,6 +214,8 @@
         "The ===[municipality's]===> population 63,135",
         "Erlanger ===[new]===> Sombrero Phosphate",
         "Yugoslav ===[army]===> (basketball team):",
-        "Was ===[the]===> basketball section"
+        "Was ===[the]===> basketball section",
+        "Lucia ===[gai:]===> Lucia Gai",
+        "She ===[plays]===> Prop for"
     ]
 }
