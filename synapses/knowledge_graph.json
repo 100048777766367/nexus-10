@@ -1,8 +1,5 @@
 {
     "nodes": [
-        "University",
-        "(Tbilisi): The",
-        "Djibo",
         "Djibo Bakary",
         "Bakary",
         "the",
@@ -99,7 +96,10 @@
         "Cora",
         "Cora Weiss",
         "Through",
-        "membership and"
+        "membership and",
+        "Moe",
+        "Moe Meguro",
+        "born November"
     ],
     "edges": [
         "Bradford ===[colliery:]===> Bradford Colliery",
@@ -220,6 +220,8 @@
         "Katka ===[zupančič:]===> Belokranjka Katka",
         "She ===[primarily]===> wrote Slovene-language",
         "Cora ===[weiss:]===> Cora Weiss",
-        "Through ===[her]===> membership and"
+        "Through ===[her]===> membership and",
+        "Moe ===[meguro:]===> Moe Meguro",
+        "She ===[was]===> born November"
     ]
 }
