@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "Transmission",
-        "EP): Transmission",
-        "The",
-        "track cover",
         "University",
         "(Tbilisi): The",
         "Djibo",
@@ -99,7 +95,11 @@
         "Prop for",
         "Katka",
         "Belokranjka Katka",
-        "wrote Slovene-language"
+        "wrote Slovene-language",
+        "Cora",
+        "Cora Weiss",
+        "Through",
+        "membership and"
     ],
     "edges": [
         "Bradford ===[colliery:]===> Bradford Colliery",
@@ -218,6 +218,8 @@
         "Lucia ===[gai:]===> Lucia Gai",
         "She ===[plays]===> Prop for",
         "Katka ===[zupančič:]===> Belokranjka Katka",
-        "She ===[primarily]===> wrote Slovene-language"
+        "She ===[primarily]===> wrote Slovene-language",
+        "Cora ===[weiss:]===> Cora Weiss",
+        "Through ===[her]===> membership and"
     ]
 }
