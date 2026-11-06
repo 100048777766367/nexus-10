@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Djibo Bakary",
-        "Bakary",
         "the",
         "Kuttappan",
         "Indian National",
@@ -99,7 +97,9 @@
         "membership and",
         "Moe",
         "Moe Meguro",
-        "born November"
+        "born November",
+        "Hooge",
+        "Hooge Mierde"
     ],
     "edges": [
         "Bradford ===[colliery:]===> Bradford Colliery",
@@ -222,6 +222,7 @@
         "Cora ===[weiss:]===> Cora Weiss",
         "Through ===[her]===> membership and",
         "Moe ===[meguro:]===> Moe Meguro",
-        "She ===[was]===> born November"
+        "She ===[was]===> born November",
+        "Hooge ===[mierde:]===> Hooge Mierde"
     ]
 }
