@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Indian National",
-        "Elected",
         "the Legislative",
         "Decimiana",
         "Decimiana hebardi",
@@ -99,7 +97,9 @@
         "Hooge",
         "Hooge Mierde",
         "Hasora",
-        "Hasora vitta,"
+        "Hasora vitta,",
+        "N'toko:",
+        "Blažič, better"
     ],
     "edges": [
         "Bradford ===[colliery:]===> Bradford Colliery",
@@ -224,6 +224,7 @@
         "Moe ===[meguro:]===> Moe Meguro",
         "She ===[was]===> born November",
         "Hooge ===[mierde:]===> Hooge Mierde",
-        "Hasora ===[vitta:]===> Hasora vitta,"
+        "Hasora ===[vitta:]===> Hasora vitta,",
+        "N'toko: ===[miha]===> Blažič, better"
     ]
 }
