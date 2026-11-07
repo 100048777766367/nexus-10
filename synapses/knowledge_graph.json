@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Decimiana hebardi",
-        "Boldecker",
         "Boldecker Land",
         "Situated",
         "the river",
@@ -99,7 +97,9 @@
         "N'toko:",
         "Blažič, better",
         "Taste",
-        "Taste Vengeance,"
+        "Taste Vengeance,",
+        "Efn:",
+        "Fernando Narciandi,"
     ],
     "edges": [
         "Bradford ===[colliery:]===> Bradford Colliery",
@@ -226,6 +226,7 @@
         "Hooge ===[mierde:]===> Hooge Mierde",
         "Hasora ===[vitta:]===> Hasora vitta,",
         "N'toko: ===[miha]===> Blažič, better",
-        "Taste ===[vengeance:]===> Taste Vengeance,"
+        "Taste ===[vengeance:]===> Taste Vengeance,",
+        "Efn: ===[eric]===> Fernando Narciandi,"
     ]
 }
