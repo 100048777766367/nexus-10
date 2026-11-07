@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "the Legislative",
-        "Decimiana",
         "Decimiana hebardi",
         "Boldecker",
         "Boldecker Land",
@@ -99,7 +97,9 @@
         "Hasora",
         "Hasora vitta,",
         "N'toko:",
-        "Blažič, better"
+        "Blažič, better",
+        "Taste",
+        "Taste Vengeance,"
     ],
     "edges": [
         "Bradford ===[colliery:]===> Bradford Colliery",
@@ -225,6 +225,7 @@
         "She ===[was]===> born November",
         "Hooge ===[mierde:]===> Hooge Mierde",
         "Hasora ===[vitta:]===> Hasora vitta,",
-        "N'toko: ===[miha]===> Blažič, better"
+        "N'toko: ===[miha]===> Blažič, better",
+        "Taste ===[vengeance:]===> Taste Vengeance,"
     ]
 }
