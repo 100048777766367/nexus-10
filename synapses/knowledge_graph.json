@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "the",
-        "Kuttappan",
         "Indian National",
         "Elected",
         "the Legislative",
@@ -99,7 +97,9 @@
         "Moe Meguro",
         "born November",
         "Hooge",
-        "Hooge Mierde"
+        "Hooge Mierde",
+        "Hasora",
+        "Hasora vitta,"
     ],
     "edges": [
         "Bradford ===[colliery:]===> Bradford Colliery",
@@ -223,6 +223,7 @@
         "Through ===[her]===> membership and",
         "Moe ===[meguro:]===> Moe Meguro",
         "She ===[was]===> born November",
-        "Hooge ===[mierde:]===> Hooge Mierde"
+        "Hooge ===[mierde:]===> Hooge Mierde",
+        "Hasora ===[vitta:]===> Hasora vitta,"
     ]
 }
