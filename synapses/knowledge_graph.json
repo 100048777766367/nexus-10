@@ -1,8 +1,5 @@
 {
     "nodes": [
-        "Moulin Rouge:",
-        "Jj72",
-        "JJ72 the",
         "August 2000",
         "Dick",
         "Richard Lewis",
@@ -99,7 +96,10 @@
         "Fernando Narciandi,",
         "Rondo",
         "(Bruckner): The",
-        "1862"
+        "1862",
+        "Tim",
+        "Timothy Macgill",
+        "played"
     ],
     "edges": [
         "Bradford ===[colliery:]===> Bradford Colliery",
@@ -229,6 +229,8 @@
         "Taste ===[vengeance:]===> Taste Vengeance,",
         "Efn: ===[eric]===> Fernando Narciandi,",
         "Rondo ===[minor]===> (Bruckner): The",
-        "Was ===[written]===> 1862"
+        "Was ===[written]===> 1862",
+        "Tim ===[melville:]===> Timothy Macgill",
+        "Has ===[previously]===> played"
     ]
 }
