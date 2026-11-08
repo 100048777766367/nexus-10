@@ -1,8 +1,5 @@
 {
     "nodes": [
-        "Boldecker Land",
-        "Situated",
-        "the river",
         "Moulin Rouge:",
         "Jj72",
         "JJ72 the",
@@ -99,7 +96,10 @@
         "Taste",
         "Taste Vengeance,",
         "Efn:",
-        "Fernando Narciandi,"
+        "Fernando Narciandi,",
+        "Rondo",
+        "(Bruckner): The",
+        "1862"
     ],
     "edges": [
         "Bradford ===[colliery:]===> Bradford Colliery",
@@ -227,6 +227,8 @@
         "Hasora ===[vitta:]===> Hasora vitta,",
         "N'toko: ===[miha]===> Blažič, better",
         "Taste ===[vengeance:]===> Taste Vengeance,",
-        "Efn: ===[eric]===> Fernando Narciandi,"
+        "Efn: ===[eric]===> Fernando Narciandi,",
+        "Rondo ===[minor]===> (Bruckner): The",
+        "Was ===[written]===> 1862"
     ]
 }
