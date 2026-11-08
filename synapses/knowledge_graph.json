@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Richard Lewis",
-        "San",
         "Day: San",
         "final battle",
         "Rienz:",
@@ -99,7 +97,9 @@
         "Timothy Macgill",
         "played",
         "Kei",
-        "(politician): Kei"
+        "(politician): Kei",
+        "Mashallah",
+        "Athari: Māshāʾallāh"
     ],
     "edges": [
         "Bradford ===[colliery:]===> Bradford Colliery",
@@ -232,6 +232,7 @@
         "Was ===[written]===> 1862",
         "Tim ===[melville:]===> Timothy Macgill",
         "Has ===[previously]===> played",
-        "Kei ===[satō]===> (politician): Kei"
+        "Kei ===[satō]===> (politician): Kei",
+        "Mashallah ===[ibn]===> Athari: Māshāʾallāh"
     ]
 }
