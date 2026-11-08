@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "August 2000",
-        "Dick",
         "Richard Lewis",
         "San",
         "Day: San",
@@ -99,7 +97,9 @@
         "1862",
         "Tim",
         "Timothy Macgill",
-        "played"
+        "played",
+        "Kei",
+        "(politician): Kei"
     ],
     "edges": [
         "Bradford ===[colliery:]===> Bradford Colliery",
@@ -231,6 +231,7 @@
         "Rondo ===[minor]===> (Bruckner): The",
         "Was ===[written]===> 1862",
         "Tim ===[melville:]===> Timothy Macgill",
-        "Has ===[previously]===> played"
+        "Has ===[previously]===> played",
+        "Kei ===[satō]===> (politician): Kei"
     ]
 }
