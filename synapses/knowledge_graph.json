@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "located 2,180",
-        "Amphipterygium:",
         "small genus",
         "Boldhusgade:",
         "short, cobbled",
@@ -99,7 +97,9 @@
         "Miranda: Francisco",
         "the study",
         "Gua",
-        "(federal constituency):"
+        "(federal constituency):",
+        "Hot",
+        "Tour: The"
     ],
     "edges": [
         "Bradford ===[colliery:]===> Bradford Colliery",
@@ -236,6 +236,7 @@
         "Mashallah ===[ibn]===> Athari: Māshāʾallāh",
         "Francisco ===[alía]===> Miranda: Francisco",
         "Has ===[focused]===> the study",
-        "Gua ===[musang]===> (federal constituency):"
+        "Gua ===[musang]===> (federal constituency):",
+        "Hot ===[space]===> Tour: The"
     ]
 }
