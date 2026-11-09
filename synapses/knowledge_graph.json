@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Rienz river",
-        "Its",
         "located 2,180",
         "Amphipterygium:",
         "small genus",
@@ -99,7 +97,9 @@
         "Athari: Māshāʾallāh",
         "Francisco",
         "Miranda: Francisco",
-        "the study"
+        "the study",
+        "Gua",
+        "(federal constituency):"
     ],
     "edges": [
         "Bradford ===[colliery:]===> Bradford Colliery",
@@ -235,6 +235,7 @@
         "Kei ===[satō]===> (politician): Kei",
         "Mashallah ===[ibn]===> Athari: Māshāʾallāh",
         "Francisco ===[alía]===> Miranda: Francisco",
-        "Has ===[focused]===> the study"
+        "Has ===[focused]===> the study",
+        "Gua ===[musang]===> (federal constituency):"
     ]
 }
