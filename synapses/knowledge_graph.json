@@ -1,8 +1,5 @@
 {
     "nodes": [
-        "Day: San",
-        "final battle",
-        "Rienz:",
         "Rienz river",
         "Its",
         "located 2,180",
@@ -99,7 +96,10 @@
         "Kei",
         "(politician): Kei",
         "Mashallah",
-        "Athari: Māshāʾallāh"
+        "Athari: Māshāʾallāh",
+        "Francisco",
+        "Miranda: Francisco",
+        "the study"
     ],
     "edges": [
         "Bradford ===[colliery:]===> Bradford Colliery",
@@ -233,6 +233,8 @@
         "Tim ===[melville:]===> Timothy Macgill",
         "Has ===[previously]===> played",
         "Kei ===[satō]===> (politician): Kei",
-        "Mashallah ===[ibn]===> Athari: Māshāʾallāh"
+        "Mashallah ===[ibn]===> Athari: Māshāʾallāh",
+        "Francisco ===[alía]===> Miranda: Francisco",
+        "Has ===[focused]===> the study"
     ]
 }
