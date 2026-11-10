@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Has",
-        "great number",
         "Then",
         "You",
         "Song):",
@@ -99,7 +97,9 @@
         "was 2,333",
         "Benjamin",
         "Benjamin Platt",
-        "founder the"
+        "founder the",
+        "Rufous-headed",
+        "The rufous-headed"
     ],
     "edges": [
         "Bradford ===[colliery:]===> Bradford Colliery",
@@ -241,6 +241,7 @@
         "Gainesville, ===[new]===> York: Gainesville",
         "The ===[population]===> was 2,333",
         "Benjamin ===[platt:]===> Benjamin Platt",
-        "Was ===[the]===> founder the"
+        "Was ===[the]===> founder the",
+        "Rufous-headed ===[parrotbill:]===> The rufous-headed"
     ]
 }
