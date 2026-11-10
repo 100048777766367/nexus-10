@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "small genus",
-        "Boldhusgade:",
-        "short, cobbled",
-        "Runs",
         "Ved Stranden",
         "Francesco",
         "Francesco Gostoli",
@@ -99,7 +95,11 @@
         "Gua",
         "(federal constituency):",
         "Hot",
-        "Tour: The"
+        "Tour: The",
+        "Gainesville,",
+        "York: Gainesville",
+        "The",
+        "was 2,333"
     ],
     "edges": [
         "Bradford ===[colliery:]===> Bradford Colliery",
@@ -237,6 +237,8 @@
         "Francisco ===[alía]===> Miranda: Francisco",
         "Has ===[focused]===> the study",
         "Gua ===[musang]===> (federal constituency):",
-        "Hot ===[space]===> Tour: The"
+        "Hot ===[space]===> Tour: The",
+        "Gainesville, ===[new]===> York: Gainesville",
+        "The ===[population]===> was 2,333"
     ]
 }
