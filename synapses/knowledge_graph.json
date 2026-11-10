@@ -1,8 +1,5 @@
 {
     "nodes": [
-        "Ved Stranden",
-        "Francesco",
-        "Francesco Gostoli",
         "Has",
         "great number",
         "Then",
@@ -99,7 +96,10 @@
         "Gainesville,",
         "York: Gainesville",
         "The",
-        "was 2,333"
+        "was 2,333",
+        "Benjamin",
+        "Benjamin Platt",
+        "founder the"
     ],
     "edges": [
         "Bradford ===[colliery:]===> Bradford Colliery",
@@ -239,6 +239,8 @@
         "Gua ===[musang]===> (federal constituency):",
         "Hot ===[space]===> Tour: The",
         "Gainesville, ===[new]===> York: Gainesville",
-        "The ===[population]===> was 2,333"
+        "The ===[population]===> was 2,333",
+        "Benjamin ===[platt:]===> Benjamin Platt",
+        "Was ===[the]===> founder the"
     ]
 }
