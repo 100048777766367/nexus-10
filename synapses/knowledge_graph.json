@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Then",
-        "You",
         "Song):",
         "Came You\"",
         "From",
@@ -99,7 +97,9 @@
         "Benjamin Platt",
         "founder the",
         "Rufous-headed",
-        "The rufous-headed"
+        "The rufous-headed",
+        "Combine",
+        "Combine term"
     ],
     "edges": [
         "Bradford ===[colliery:]===> Bradford Colliery",
@@ -242,6 +242,7 @@
         "The ===[population]===> was 2,333",
         "Benjamin ===[platt:]===> Benjamin Platt",
         "Was ===[the]===> founder the",
-        "Rufous-headed ===[parrotbill:]===> The rufous-headed"
+        "Rufous-headed ===[parrotbill:]===> The rufous-headed",
+        "Combine ===[(enterprise):]===> Combine term"
     ]
 }
