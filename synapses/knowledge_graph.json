@@ -1,8 +1,5 @@
 {
     "nodes": [
-        "Song):",
-        "Came You\"",
-        "From",
         "album",
         "Chollima-091:",
         "Chollima-091 (Korean:",
@@ -99,7 +96,10 @@
         "Rufous-headed",
         "The rufous-headed",
         "Combine",
-        "Combine term"
+        "Combine term",
+        "Racket",
+        "Racket Attack",
+        "Japan Moero!!"
     ],
     "edges": [
         "Bradford ===[colliery:]===> Bradford Colliery",
@@ -243,6 +243,8 @@
         "Benjamin ===[platt:]===> Benjamin Platt",
         "Was ===[the]===> founder the",
         "Rufous-headed ===[parrotbill:]===> The rufous-headed",
-        "Combine ===[(enterprise):]===> Combine term"
+        "Combine ===[(enterprise):]===> Combine term",
+        "Racket ===[attack:]===> Racket Attack",
+        "Was ===[released]===> Japan Moero!!"
     ]
 }
