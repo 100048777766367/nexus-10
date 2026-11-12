@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Chollima-091 (Korean:",
-        "Lamaline:",
         "town the",
         "had population",
         "Mataranga",
@@ -99,7 +97,9 @@
         "Racket Attack",
         "Japan Moero!!",
         "Marriage",
-        "1949: The"
+        "1949: The",
+        "William",
+        "Mackenzie King:"
     ],
     "edges": [
         "Bradford ===[colliery:]===> Bradford Colliery",
@@ -246,6 +246,7 @@
         "Combine ===[(enterprise):]===> Combine term",
         "Racket ===[attack:]===> Racket Attack",
         "Was ===[released]===> Japan Moero!!",
-        "Marriage ===[act]===> 1949: The"
+        "Marriage ===[act]===> 1949: The",
+        "William ===[lyon]===> Mackenzie King:"
     ]
 }
