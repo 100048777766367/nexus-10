@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "town the",
-        "had population",
         "Mataranga",
         "The Matranga,",
         "Assault",
@@ -99,7 +97,9 @@
         "Marriage",
         "1949: The",
         "William",
-        "Mackenzie King:"
+        "Mackenzie King:",
+        "Kill",
+        "kill house"
     ],
     "edges": [
         "Bradford ===[colliery:]===> Bradford Colliery",
@@ -247,6 +247,7 @@
         "Racket ===[attack:]===> Racket Attack",
         "Was ===[released]===> Japan Moero!!",
         "Marriage ===[act]===> 1949: The",
-        "William ===[lyon]===> Mackenzie King:"
+        "William ===[lyon]===> Mackenzie King:",
+        "Kill ===[house:]===> kill house"
     ]
 }
