@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Assault",
-        "Brigades: Assault",
         "Capitol",
         "Denver: The",
         "Reggie",
@@ -99,7 +97,9 @@
         "Kill",
         "kill house",
         "Raoul",
-        "Raoul Charles"
+        "Raoul Charles",
+        "Hal",
+        "The HF-73,"
     ],
     "edges": [
         "Bradford ===[colliery:]===> Bradford Colliery",
@@ -249,6 +249,7 @@
         "Marriage ===[act]===> 1949: The",
         "William ===[lyon]===> Mackenzie King:",
         "Kill ===[house:]===> kill house",
-        "Raoul ===[magrin-vernerey:]===> Raoul Charles"
+        "Raoul ===[magrin-vernerey:]===> Raoul Charles",
+        "Hal ===[hf-73:]===> The HF-73,"
     ]
 }
