@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Mataranga",
-        "The Matranga,",
         "Assault",
         "Brigades: Assault",
         "Capitol",
@@ -99,7 +97,9 @@
         "William",
         "Mackenzie King:",
         "Kill",
-        "kill house"
+        "kill house",
+        "Raoul",
+        "Raoul Charles"
     ],
     "edges": [
         "Bradford ===[colliery:]===> Bradford Colliery",
@@ -248,6 +248,7 @@
         "Was ===[released]===> Japan Moero!!",
         "Marriage ===[act]===> 1949: The",
         "William ===[lyon]===> Mackenzie King:",
-        "Kill ===[house:]===> kill house"
+        "Kill ===[house:]===> kill house",
+        "Raoul ===[magrin-vernerey:]===> Raoul Charles"
     ]
 }
