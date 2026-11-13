@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Capitol",
-        "Denver: The",
         "Reggie",
         "Reggie King",
         "Stepanavan",
@@ -99,7 +97,9 @@
         "Raoul",
         "Raoul Charles",
         "Hal",
-        "The HF-73,"
+        "The HF-73,",
+        "Holding",
+        "aviation, holding"
     ],
     "edges": [
         "Bradford ===[colliery:]===> Bradford Colliery",
@@ -250,6 +250,7 @@
         "William ===[lyon]===> Mackenzie King:",
         "Kill ===[house:]===> kill house",
         "Raoul ===[magrin-vernerey:]===> Raoul Charles",
-        "Hal ===[hf-73:]===> The HF-73,"
+        "Hal ===[hf-73:]===> The HF-73,",
+        "Holding ===[(aeronautics):]===> aviation, holding"
     ]
 }
