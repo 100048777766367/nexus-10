@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Stepanavan",
-        "Officially Sochut",
         "1959–1974: the",
         "Not:",
         "Not\" song",
@@ -99,10 +97,11 @@
         "Holding",
         "aviation, holding",
         "Shyampur",
-        "constituency: Shyampur"
+        "constituency: Shyampur",
+        "West",
+        "Reservoir: West"
     ],
     "edges": [
-        "Although ===[part]===> the Manchester",
         "Sapphire-vented ===[puffleg:]===> The sapphire-vented",
         "Hopkinton, ===[new]===> Hampshire: Hopkinton",
         "The ===[population]===> was 5,914",
@@ -251,6 +250,7 @@
         "Raoul ===[magrin-vernerey:]===> Raoul Charles",
         "Hal ===[hf-73:]===> The HF-73,",
         "Holding ===[(aeronautics):]===> aviation, holding",
-        "Shyampur ===[assembly]===> constituency: Shyampur"
+        "Shyampur ===[assembly]===> constituency: Shyampur",
+        "West ===[water]===> Reservoir: West"
     ]
 }
