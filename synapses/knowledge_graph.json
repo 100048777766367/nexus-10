@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "1959–1974: the",
-        "Not:",
-        "Not\" song",
-        "Bom",
         "das Selvas:",
         "Strong-willed",
         "The Strong-Willed",
@@ -99,11 +95,13 @@
         "Shyampur",
         "constituency: Shyampur",
         "West",
-        "Reservoir: West"
+        "Reservoir: West",
+        "Carex",
+        "Carex illota",
+        "Native",
+        "North America,"
     ],
     "edges": [
-        "Sapphire-vented ===[puffleg:]===> The sapphire-vented",
-        "Hopkinton, ===[new]===> Hampshire: Hopkinton",
         "The ===[population]===> was 5,914",
         "Kangha: ===[kangha]===> small wooden",
         "Adıyaman ===[archaeological]===> Museum: Adıyaman",
@@ -251,6 +249,8 @@
         "Hal ===[hf-73:]===> The HF-73,",
         "Holding ===[(aeronautics):]===> aviation, holding",
         "Shyampur ===[assembly]===> constituency: Shyampur",
-        "West ===[water]===> Reservoir: West"
+        "West ===[water]===> Reservoir: West",
+        "Carex ===[illota:]===> Carex illota",
+        "Native ===[western]===> North America,"
     ]
 }
