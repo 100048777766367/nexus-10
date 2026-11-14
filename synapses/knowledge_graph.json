@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Reggie",
-        "Reggie King",
         "Stepanavan",
         "Officially Sochut",
         "1959–1974: the",
@@ -99,10 +97,11 @@
         "Hal",
         "The HF-73,",
         "Holding",
-        "aviation, holding"
+        "aviation, holding",
+        "Shyampur",
+        "constituency: Shyampur"
     ],
     "edges": [
-        "Bradford ===[colliery:]===> Bradford Colliery",
         "Although ===[part]===> the Manchester",
         "Sapphire-vented ===[puffleg:]===> The sapphire-vented",
         "Hopkinton, ===[new]===> Hampshire: Hopkinton",
@@ -251,6 +250,7 @@
         "Kill ===[house:]===> kill house",
         "Raoul ===[magrin-vernerey:]===> Raoul Charles",
         "Hal ===[hf-73:]===> The HF-73,",
-        "Holding ===[(aeronautics):]===> aviation, holding"
+        "Holding ===[(aeronautics):]===> aviation, holding",
+        "Shyampur ===[assembly]===> constituency: Shyampur"
     ]
 }
