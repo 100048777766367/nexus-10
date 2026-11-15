@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Eaux Froides:",
-        "Battle",
         "(1939): The",
         "Undead",
         "Undead Indeed",
@@ -99,10 +97,11 @@
         "Sehnsucht:",
         "German noun",
         "Some",
-        "use the"
+        "use the",
+        "Faisal–weizmann",
+        "The Faisal–Weizmann"
     ],
     "edges": [
-        "Adıyaman ===[archaeological]===> Museum: Adıyaman",
         "Located ===[the]===> corner",
         "Stinson ===[field]===> Municipal Airport:",
         "Waterlandkerkje: ===[waterlandkerkje]===> village the",
@@ -251,6 +250,7 @@
         "Carex ===[illota:]===> Carex illota",
         "Native ===[western]===> North America,",
         "Sehnsucht: ===[sehnsucht]===> German noun",
-        "Some ===[psychologists]===> use the"
+        "Some ===[psychologists]===> use the",
+        "Faisal–weizmann ===[agreement:]===> The Faisal–Weizmann"
     ]
 }
