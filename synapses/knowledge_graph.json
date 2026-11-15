@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "(1939): The",
-        "Undead",
         "Undead Indeed",
         "Was",
         "Rupla Club,",
@@ -99,10 +97,11 @@
         "Some",
         "use the",
         "Faisal–weizmann",
-        "The Faisal–Weizmann"
+        "The Faisal–Weizmann",
+        "Ross",
+        "Ross Newhan"
     ],
     "edges": [
-        "Located ===[the]===> corner",
         "Stinson ===[field]===> Municipal Airport:",
         "Waterlandkerkje: ===[waterlandkerkje]===> village the",
         "Located ===[the]===> municipality Sluis",
@@ -251,6 +250,7 @@
         "Native ===[western]===> North America,",
         "Sehnsucht: ===[sehnsucht]===> German noun",
         "Some ===[psychologists]===> use the",
-        "Faisal–weizmann ===[agreement:]===> The Faisal–Weizmann"
+        "Faisal–weizmann ===[agreement:]===> The Faisal–Weizmann",
+        "Ross ===[newhan:]===> Ross Newhan"
     ]
 }
