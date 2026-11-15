@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "das Selvas:",
-        "Strong-willed",
-        "The Strong-Willed",
-        "Six",
         "Eaux Froides:",
         "Battle",
         "(1939): The",
@@ -99,11 +95,13 @@
         "Carex",
         "Carex illota",
         "Native",
-        "North America,"
+        "North America,",
+        "Sehnsucht:",
+        "German noun",
+        "Some",
+        "use the"
     ],
     "edges": [
-        "The ===[population]===> was 5,914",
-        "Kangha: ===[kangha]===> small wooden",
         "Adıyaman ===[archaeological]===> Museum: Adıyaman",
         "Located ===[the]===> corner",
         "Stinson ===[field]===> Municipal Airport:",
@@ -251,6 +249,8 @@
         "Shyampur ===[assembly]===> constituency: Shyampur",
         "West ===[water]===> Reservoir: West",
         "Carex ===[illota:]===> Carex illota",
-        "Native ===[western]===> North America,"
+        "Native ===[western]===> North America,",
+        "Sehnsucht: ===[sehnsucht]===> German noun",
+        "Some ===[psychologists]===> use the"
     ]
 }
