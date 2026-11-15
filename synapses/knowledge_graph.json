@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "Undead Indeed",
-        "Was",
-        "Rupla Club,",
-        "Pilcher",
         "Pilcher Rawlins",
         "Cranbrook,",
         "Columbia: Cranbrook",
@@ -99,11 +95,13 @@
         "Faisal–weizmann",
         "The Faisal–Weizmann",
         "Ross",
-        "Ross Newhan"
+        "Ross Newhan",
+        "2013",
+        "China floods:",
+        "Sichuan",
+        "the hardes"
     ],
     "edges": [
-        "Stinson ===[field]===> Municipal Airport:",
-        "Waterlandkerkje: ===[waterlandkerkje]===> village the",
         "Located ===[the]===> municipality Sluis",
         "Grimson ===[(musical]===> family): The",
         "Avraham ===[melamed]===> (politician): Avraham",
@@ -251,6 +249,8 @@
         "Sehnsucht: ===[sehnsucht]===> German noun",
         "Some ===[psychologists]===> use the",
         "Faisal–weizmann ===[agreement:]===> The Faisal–Weizmann",
-        "Ross ===[newhan:]===> Ross Newhan"
+        "Ross ===[newhan:]===> Ross Newhan",
+        "2013 ===[southwest]===> China floods:",
+        "Sichuan ===[was]===> the hardes"
     ]
 }
