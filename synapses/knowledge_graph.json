@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Pilcher Rawlins",
-        "Cranbrook,",
         "Columbia: Cranbrook",
         "Mi)",
         "the conflue",
@@ -99,10 +97,11 @@
         "2013",
         "China floods:",
         "Sichuan",
-        "the hardes"
+        "the hardes",
+        "2024",
+        "City Council"
     ],
     "edges": [
-        "Located ===[the]===> municipality Sluis",
         "Grimson ===[(musical]===> family): The",
         "Avraham ===[melamed]===> (politician): Avraham",
         "Tingena ===[ancogramma:]===> Tingena ancogramma",
@@ -251,6 +250,7 @@
         "Faisal–weizmann ===[agreement:]===> The Faisal–Weizmann",
         "Ross ===[newhan:]===> Ross Newhan",
         "2013 ===[southwest]===> China floods:",
-        "Sichuan ===[was]===> the hardes"
+        "Sichuan ===[was]===> the hardes",
+        "2024 ===[sunderland]===> City Council"
     ]
 }
