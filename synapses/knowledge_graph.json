@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Columbia: Cranbrook",
-        "Mi)",
         "the conflue",
         "Lushnjë:",
         "city and",
@@ -99,10 +97,11 @@
         "Sichuan",
         "the hardes",
         "2024",
-        "City Council"
+        "City Council",
+        "Riau",
+        "The Riau"
     ],
     "edges": [
-        "Grimson ===[(musical]===> family): The",
         "Avraham ===[melamed]===> (politician): Avraham",
         "Tingena ===[ancogramma:]===> Tingena ancogramma",
         "Endemic ===[new]===> Zealand and",
@@ -251,6 +250,7 @@
         "Ross ===[newhan:]===> Ross Newhan",
         "2013 ===[southwest]===> China floods:",
         "Sichuan ===[was]===> the hardes",
-        "2024 ===[sunderland]===> City Council"
+        "2024 ===[sunderland]===> City Council",
+        "Riau ===[islands:]===> The Riau"
     ]
 }
