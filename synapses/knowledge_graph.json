@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Erlanger",
-        "Sombrero Phosphate",
         "Yugoslav",
         "(basketball team):",
         "basketball section",
@@ -99,10 +97,11 @@
         "Nils",
         "Nils Daulaire",
         "Armando",
-        "Armando Siri"
+        "Armando Siri",
+        "Katharine",
+        "Katharine Moana"
     ],
     "edges": [
-        "Endemic ===[new]===> Zealand and",
         "Béatrix: ===[béatrix]===> 1839 novel",
         "Tua ===[railway]===> station: The",
         "América ===[futebol]===> Clube (GO):",
@@ -251,6 +250,7 @@
         "2024 ===[sunderland]===> City Council",
         "Riau ===[islands:]===> The Riau",
         "Nils ===[daulaire:]===> Nils Daulaire",
-        "Armando ===[siri:]===> Armando Siri"
+        "Armando ===[siri:]===> Armando Siri",
+        "Katharine ===[birbalsingh:]===> Katharine Moana"
     ]
 }
