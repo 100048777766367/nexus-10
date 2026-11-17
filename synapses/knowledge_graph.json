@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "the conflue",
-        "Lushnjë:",
         "city and",
         "population 63,135",
         "Erlanger",
@@ -99,10 +97,11 @@
         "2024",
         "City Council",
         "Riau",
-        "The Riau"
+        "The Riau",
+        "Nils",
+        "Nils Daulaire"
     ],
     "edges": [
-        "Avraham ===[melamed]===> (politician): Avraham",
         "Tingena ===[ancogramma:]===> Tingena ancogramma",
         "Endemic ===[new]===> Zealand and",
         "Béatrix: ===[béatrix]===> 1839 novel",
@@ -251,6 +250,7 @@
         "2013 ===[southwest]===> China floods:",
         "Sichuan ===[was]===> the hardes",
         "2024 ===[sunderland]===> City Council",
-        "Riau ===[islands:]===> The Riau"
+        "Riau ===[islands:]===> The Riau",
+        "Nils ===[daulaire:]===> Nils Daulaire"
     ]
 }
