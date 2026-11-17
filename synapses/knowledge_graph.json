@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "city and",
-        "population 63,135",
         "Erlanger",
         "Sombrero Phosphate",
         "Yugoslav",
@@ -99,10 +97,11 @@
         "Riau",
         "The Riau",
         "Nils",
-        "Nils Daulaire"
+        "Nils Daulaire",
+        "Armando",
+        "Armando Siri"
     ],
     "edges": [
-        "Tingena ===[ancogramma:]===> Tingena ancogramma",
         "Endemic ===[new]===> Zealand and",
         "Béatrix: ===[béatrix]===> 1839 novel",
         "Tua ===[railway]===> station: The",
@@ -251,6 +250,7 @@
         "Sichuan ===[was]===> the hardes",
         "2024 ===[sunderland]===> City Council",
         "Riau ===[islands:]===> The Riau",
-        "Nils ===[daulaire:]===> Nils Daulaire"
+        "Nils ===[daulaire:]===> Nils Daulaire",
+        "Armando ===[siri:]===> Armando Siri"
     ]
 }
