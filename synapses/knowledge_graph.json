@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "basketball section",
-        "Lucia",
         "Lucia Gai",
         "She",
         "Prop for",
@@ -99,10 +97,11 @@
         "Katharine",
         "Katharine Moana",
         "Hengshan",
-        "Yulin: Hengshan"
+        "Yulin: Hengshan",
+        "Vennes:",
+        "commune the"
     ],
     "edges": [
-        "Tua ===[railway]===> station: The",
         "América ===[futebol]===> Clube (GO):",
         "The ===[club]===> was founded",
         "Madama ===[lucrezia:]===> Madama Lucrezia",
@@ -251,6 +250,7 @@
         "Nils ===[daulaire:]===> Nils Daulaire",
         "Armando ===[siri:]===> Armando Siri",
         "Katharine ===[birbalsingh:]===> Katharine Moana",
-        "Hengshan ===[district,]===> Yulin: Hengshan"
+        "Hengshan ===[district,]===> Yulin: Hengshan",
+        "Vennes: ===[vennes]===> commune the"
     ]
 }
