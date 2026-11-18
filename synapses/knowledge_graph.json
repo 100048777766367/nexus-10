@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Yugoslav",
-        "(basketball team):",
         "basketball section",
         "Lucia",
         "Lucia Gai",
@@ -99,10 +97,11 @@
         "Armando",
         "Armando Siri",
         "Katharine",
-        "Katharine Moana"
+        "Katharine Moana",
+        "Hengshan",
+        "Yulin: Hengshan"
     ],
     "edges": [
-        "Béatrix: ===[béatrix]===> 1839 novel",
         "Tua ===[railway]===> station: The",
         "América ===[futebol]===> Clube (GO):",
         "The ===[club]===> was founded",
@@ -251,6 +250,7 @@
         "Riau ===[islands:]===> The Riau",
         "Nils ===[daulaire:]===> Nils Daulaire",
         "Armando ===[siri:]===> Armando Siri",
-        "Katharine ===[birbalsingh:]===> Katharine Moana"
+        "Katharine ===[birbalsingh:]===> Katharine Moana",
+        "Hengshan ===[district,]===> Yulin: Hengshan"
     ]
 }
