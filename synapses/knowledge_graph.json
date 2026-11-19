@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Prop for",
-        "Katka",
         "Belokranjka Katka",
         "wrote Slovene-language",
         "Cora",
@@ -99,10 +97,11 @@
         "Vennes:",
         "commune the",
         "Rainatou",
-        "Rainatou Sow"
+        "Rainatou Sow",
+        "Bergheim,",
+        "Bergheim commune"
     ],
     "edges": [
-        "The ===[club]===> was founded",
         "Madama ===[lucrezia:]===> Madama Lucrezia",
         "Pasquinades ===[irreverent]===> satires poking",
         "Jake ===[bird:]===> Jake Bird",
@@ -251,6 +250,7 @@
         "Katharine ===[birbalsingh:]===> Katharine Moana",
         "Hengshan ===[district,]===> Yulin: Hengshan",
         "Vennes: ===[vennes]===> commune the",
-        "Rainatou ===[sow:]===> Rainatou Sow"
+        "Rainatou ===[sow:]===> Rainatou Sow",
+        "Bergheim, ===[haut-rhin:]===> Bergheim commune"
     ]
 }
