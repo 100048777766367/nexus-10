@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Lucia Gai",
-        "She",
         "Prop for",
         "Katka",
         "Belokranjka Katka",
@@ -99,10 +97,11 @@
         "Hengshan",
         "Yulin: Hengshan",
         "Vennes:",
-        "commune the"
+        "commune the",
+        "Rainatou",
+        "Rainatou Sow"
     ],
     "edges": [
-        "América ===[futebol]===> Clube (GO):",
         "The ===[club]===> was founded",
         "Madama ===[lucrezia:]===> Madama Lucrezia",
         "Pasquinades ===[irreverent]===> satires poking",
@@ -251,6 +250,7 @@
         "Armando ===[siri:]===> Armando Siri",
         "Katharine ===[birbalsingh:]===> Katharine Moana",
         "Hengshan ===[district,]===> Yulin: Hengshan",
-        "Vennes: ===[vennes]===> commune the"
+        "Vennes: ===[vennes]===> commune the",
+        "Rainatou ===[sow:]===> Rainatou Sow"
     ]
 }
