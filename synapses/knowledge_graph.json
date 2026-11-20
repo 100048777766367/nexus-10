@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Cora Weiss",
-        "Through",
         "membership and",
         "Moe",
         "Moe Meguro",
@@ -99,10 +97,11 @@
         "Bergheim commune",
         "Lynnhaven",
         "Lynnhaven Mall",
-        "Love: Christmas"
+        "Love: Christmas",
+        "Baltona:",
+        "Polish company"
     ],
     "edges": [
-        "Jake ===[bird:]===> Jake Bird",
         "Friend, ===[kolka!:]===> Friend, Kolka!",
         "Dana ===[vollmer:]===> Dana Whitney",
         "Roderick: ===[roderick,]===> Rodrick Roderic",
@@ -251,6 +250,7 @@
         "Rainatou ===[sow:]===> Rainatou Sow",
         "Bergheim, ===[haut-rhin:]===> Bergheim commune",
         "Lynnhaven ===[mall:]===> Lynnhaven Mall",
-        "The ===[gift]===> Love: Christmas"
+        "The ===[gift]===> Love: Christmas",
+        "Baltona: ===[baltona]===> Polish company"
     ]
 }
