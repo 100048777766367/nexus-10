@@ -1,6 +1,5 @@
 {
     "nodes": [
-        "Cora",
         "Cora Weiss",
         "Through",
         "membership and",
@@ -99,10 +98,10 @@
         "Bergheim,",
         "Bergheim commune",
         "Lynnhaven",
-        "Lynnhaven Mall"
+        "Lynnhaven Mall",
+        "Love: Christmas"
     ],
     "edges": [
-        "Pasquinades ===[irreverent]===> satires poking",
         "Jake ===[bird:]===> Jake Bird",
         "Friend, ===[kolka!:]===> Friend, Kolka!",
         "Dana ===[vollmer:]===> Dana Whitney",
@@ -251,6 +250,7 @@
         "Vennes: ===[vennes]===> commune the",
         "Rainatou ===[sow:]===> Rainatou Sow",
         "Bergheim, ===[haut-rhin:]===> Bergheim commune",
-        "Lynnhaven ===[mall:]===> Lynnhaven Mall"
+        "Lynnhaven ===[mall:]===> Lynnhaven Mall",
+        "The ===[gift]===> Love: Christmas"
     ]
 }
