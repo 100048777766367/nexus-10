@@ -1,6 +1,5 @@
 {
     "nodes": [
-        "born November",
         "Hooge",
         "Hooge Mierde",
         "Hasora",
@@ -99,10 +98,10 @@
         "Polish company",
         "Fayette,",
         "Fayette town",
-        "was 1,160"
+        "was 1,160",
+        "Queiróz: Francisco"
     ],
     "edges": [
-        "Roderick: ===[roderick,]===> Rodrick Roderic",
         "Its ===[old]===> High German",
         "Białka, ===[parczew]===> County: Białka",
         "Terebra ===[fernandesi:]===> Terebra fernandesi",
@@ -251,6 +250,7 @@
         "The ===[gift]===> Love: Christmas",
         "Baltona: ===[baltona]===> Polish company",
         "Fayette, ===[maine:]===> Fayette town",
-        "The ===[population]===> was 1,160"
+        "The ===[population]===> was 1,160",
+        "Francisco ===[manuel]===> Queiróz: Francisco"
     ]
 }
