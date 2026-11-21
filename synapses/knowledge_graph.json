@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Hooge",
-        "Hooge Mierde",
         "Hasora",
         "Hasora vitta,",
         "N'toko:",
@@ -99,10 +97,11 @@
         "Fayette,",
         "Fayette town",
         "was 1,160",
-        "Queiróz: Francisco"
+        "Queiróz: Francisco",
+        "Clevin",
+        "Clevin Finley"
     ],
     "edges": [
-        "Its ===[old]===> High German",
         "Białka, ===[parczew]===> County: Białka",
         "Terebra ===[fernandesi:]===> Terebra fernandesi",
         "Acıbadem ===[university:]===> Acıbadem Mehmet",
@@ -251,6 +250,7 @@
         "Baltona: ===[baltona]===> Polish company",
         "Fayette, ===[maine:]===> Fayette town",
         "The ===[population]===> was 1,160",
-        "Francisco ===[manuel]===> Queiróz: Francisco"
+        "Francisco ===[manuel]===> Queiróz: Francisco",
+        "Clevin ===[hannah:]===> Clevin Finley"
     ]
 }
