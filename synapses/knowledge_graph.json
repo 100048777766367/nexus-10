@@ -1,8 +1,5 @@
 {
     "nodes": [
-        "membership and",
-        "Moe",
-        "Moe Meguro",
         "born November",
         "Hooge",
         "Hooge Mierde",
@@ -99,11 +96,12 @@
         "Lynnhaven Mall",
         "Love: Christmas",
         "Baltona:",
-        "Polish company"
+        "Polish company",
+        "Fayette,",
+        "Fayette town",
+        "was 1,160"
     ],
     "edges": [
-        "Friend, ===[kolka!:]===> Friend, Kolka!",
-        "Dana ===[vollmer:]===> Dana Whitney",
         "Roderick: ===[roderick,]===> Rodrick Roderic",
         "Its ===[old]===> High German",
         "Białka, ===[parczew]===> County: Białka",
@@ -251,6 +249,8 @@
         "Bergheim, ===[haut-rhin:]===> Bergheim commune",
         "Lynnhaven ===[mall:]===> Lynnhaven Mall",
         "The ===[gift]===> Love: Christmas",
-        "Baltona: ===[baltona]===> Polish company"
+        "Baltona: ===[baltona]===> Polish company",
+        "Fayette, ===[maine:]===> Fayette town",
+        "The ===[population]===> was 1,160"
     ]
 }
