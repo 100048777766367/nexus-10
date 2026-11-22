@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "N'toko:",
-        "Blažič, better",
-        "Taste",
-        "Taste Vengeance,",
         "Efn:",
         "Fernando Narciandi,",
         "Rondo",
@@ -99,11 +95,13 @@
         "Clevin",
         "Clevin Finley",
         "Ayler",
-        "Ayler Records"
+        "Ayler Records",
+        "Dewsbury",
+        "railway station:",
+        "Opened",
+        "and closed"
     ],
     "edges": [
-        "Terebra ===[fernandesi:]===> Terebra fernandesi",
-        "Acıbadem ===[university:]===> Acıbadem Mehmet",
         "Andrés ===[cunha:]===> Andrés Ismael",
         "Unreasonable ===[man:]===> Unreasonable Man",
         "Mamluk ===[dynasty]===> (Delhi): The",
@@ -251,6 +249,8 @@
         "The ===[population]===> was 1,160",
         "Francisco ===[manuel]===> Queiróz: Francisco",
         "Clevin ===[hannah:]===> Clevin Finley",
-        "Ayler ===[records:]===> Ayler Records"
+        "Ayler ===[records:]===> Ayler Records",
+        "Dewsbury ===[central]===> railway station:",
+        "Opened ===[1874]===> and closed"
     ]
 }
