@@ -1,10 +1,5 @@
 {
     "nodes": [
-        "Efn:",
-        "Fernando Narciandi,",
-        "Rondo",
-        "(Bruckner): The",
-        "1862",
         "Tim",
         "Timothy Macgill",
         "played",
@@ -99,12 +94,14 @@
         "Dewsbury",
         "railway station:",
         "Opened",
-        "and closed"
+        "and closed",
+        "Khoobsurat",
+        "film): Khoobsurat",
+        "Beautiful)",
+        "Indian Hindi-language",
+        "directed Shash"
     ],
     "edges": [
-        "Andrés ===[cunha:]===> Andrés Ismael",
-        "Unreasonable ===[man:]===> Unreasonable Man",
-        "Mamluk ===[dynasty]===> (Delhi): The",
         "Laboratory ===[rat:]===> Laboratory rats,",
         "Aysheaiidae: ===[aysheaiidae]===> family lobopodians",
         "This ===[family]===> contains the",
@@ -251,6 +248,9 @@
         "Clevin ===[hannah:]===> Clevin Finley",
         "Ayler ===[records:]===> Ayler Records",
         "Dewsbury ===[central]===> railway station:",
-        "Opened ===[1874]===> and closed"
+        "Opened ===[1874]===> and closed",
+        "Khoobsurat ===[(2014]===> film): Khoobsurat",
+        "Beautiful) ===[2014]===> Indian Hindi-language",
+        "The ===[film]===> directed Shash"
     ]
 }
