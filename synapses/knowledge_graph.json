@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Hasora",
-        "Hasora vitta,",
         "N'toko:",
         "Blažič, better",
         "Taste",
@@ -99,10 +97,11 @@
         "was 1,160",
         "Queiróz: Francisco",
         "Clevin",
-        "Clevin Finley"
+        "Clevin Finley",
+        "Ayler",
+        "Ayler Records"
     ],
     "edges": [
-        "Białka, ===[parczew]===> County: Białka",
         "Terebra ===[fernandesi:]===> Terebra fernandesi",
         "Acıbadem ===[university:]===> Acıbadem Mehmet",
         "Andrés ===[cunha:]===> Andrés Ismael",
@@ -251,6 +250,7 @@
         "Fayette, ===[maine:]===> Fayette town",
         "The ===[population]===> was 1,160",
         "Francisco ===[manuel]===> Queiróz: Francisco",
-        "Clevin ===[hannah:]===> Clevin Finley"
+        "Clevin ===[hannah:]===> Clevin Finley",
+        "Ayler ===[records:]===> Ayler Records"
     ]
 }
