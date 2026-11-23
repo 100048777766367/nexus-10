@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Tim",
-        "Timothy Macgill",
         "played",
         "Kei",
         "(politician): Kei",
@@ -99,10 +97,11 @@
         "film): Khoobsurat",
         "Beautiful)",
         "Indian Hindi-language",
-        "directed Shash"
+        "directed Shash",
+        "Linda",
+        "Bennett: Linda"
     ],
     "edges": [
-        "Laboratory ===[rat:]===> Laboratory rats,",
         "Aysheaiidae: ===[aysheaiidae]===> family lobopodians",
         "This ===[family]===> contains the",
         "Rowell ===[house:]===> The Rowell",
@@ -251,6 +250,7 @@
         "Opened ===[1874]===> and closed",
         "Khoobsurat ===[(2014]===> film): Khoobsurat",
         "Beautiful) ===[2014]===> Indian Hindi-language",
-        "The ===[film]===> directed Shash"
+        "The ===[film]===> directed Shash",
+        "Linda ===[diane]===> Bennett: Linda"
     ]
 }
