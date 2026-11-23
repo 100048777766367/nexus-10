@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "played",
-        "Kei",
         "(politician): Kei",
         "Mashallah",
         "Athari: Māshāʾallāh",
@@ -99,10 +97,11 @@
         "Indian Hindi-language",
         "directed Shash",
         "Linda",
-        "Bennett: Linda"
+        "Bennett: Linda",
+        "Goldie",
+        "Goldie Vance"
     ],
     "edges": [
-        "Aysheaiidae: ===[aysheaiidae]===> family lobopodians",
         "This ===[family]===> contains the",
         "Rowell ===[house:]===> The Rowell",
         "5-story ===[cape-style]===> house, was",
@@ -251,6 +250,7 @@
         "Khoobsurat ===[(2014]===> film): Khoobsurat",
         "Beautiful) ===[2014]===> Indian Hindi-language",
         "The ===[film]===> directed Shash",
-        "Linda ===[diane]===> Bennett: Linda"
+        "Linda ===[diane]===> Bennett: Linda",
+        "Goldie ===[vance:]===> Goldie Vance"
     ]
 }
