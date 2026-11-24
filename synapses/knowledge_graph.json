@@ -1,8 +1,5 @@
 {
     "nodes": [
-        "(politician): Kei",
-        "Mashallah",
-        "Athari: Māshāʾallāh",
         "Francisco",
         "Miranda: Francisco",
         "the study",
@@ -99,11 +96,12 @@
         "Linda",
         "Bennett: Linda",
         "Goldie",
-        "Goldie Vance"
+        "Goldie Vance",
+        "Better",
+        "Ready: Better",
+        "produced guitarist"
     ],
     "edges": [
-        "This ===[family]===> contains the",
-        "Rowell ===[house:]===> The Rowell",
         "5-story ===[cape-style]===> house, was",
         "Nemopsis ===[bachei:]===> Nemopsis bachei",
         "Martin-guillaume ===[biennais:]===> Martin-Guillaume Biennais",
@@ -251,6 +249,8 @@
         "Beautiful) ===[2014]===> Indian Hindi-language",
         "The ===[film]===> directed Shash",
         "Linda ===[diane]===> Bennett: Linda",
-        "Goldie ===[vance:]===> Goldie Vance"
+        "Goldie ===[vance:]===> Goldie Vance",
+        "Better ===[get]===> Ready: Better",
+        "The ===[album,]===> produced guitarist"
     ]
 }
