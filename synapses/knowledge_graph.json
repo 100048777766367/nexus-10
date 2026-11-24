@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "Francisco",
-        "Miranda: Francisco",
-        "the study",
-        "Gua",
         "(federal constituency):",
         "Hot",
         "Tour: The",
@@ -99,11 +95,13 @@
         "Goldie Vance",
         "Better",
         "Ready: Better",
-        "produced guitarist"
+        "produced guitarist",
+        "Dar",
+        "Dar Lasram",
+        "Located",
+        "Street"
     ],
     "edges": [
-        "5-story ===[cape-style]===> house, was",
-        "Nemopsis ===[bachei:]===> Nemopsis bachei",
         "Martin-guillaume ===[biennais:]===> Martin-Guillaume Biennais",
         "Helma ===[van]===> den Berg:",
         "Ivan ===[bokyi:]===> Ivan Bokyi",
@@ -251,6 +249,8 @@
         "Linda ===[diane]===> Bennett: Linda",
         "Goldie ===[vance:]===> Goldie Vance",
         "Better ===[get]===> Ready: Better",
-        "The ===[album,]===> produced guitarist"
+        "The ===[album,]===> produced guitarist",
+        "Dar ===[lasram:]===> Dar Lasram",
+        "Located ===[tribunal]===> Street"
     ]
 }
