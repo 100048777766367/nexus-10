@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Tour: The",
-        "Gainesville,",
         "York: Gainesville",
         "The",
         "was 2,333",
@@ -99,10 +97,11 @@
         "Located",
         "Street",
         "Walter",
-        "Walter Norman"
+        "Walter Norman",
+        "Peery",
+        "Peery Lake"
     ],
     "edges": [
-        "Helma ===[van]===> den Berg:",
         "Ivan ===[bokyi:]===> Ivan Bokyi",
         "Hinea ===[fasciata:]===> Hinea fasciata",
         "Rip ===[chrysalis:]===> RIP Chrysalis",
@@ -251,6 +250,7 @@
         "The ===[album,]===> produced guitarist",
         "Dar ===[lasram:]===> Dar Lasram",
         "Located ===[tribunal]===> Street",
-        "Walter ===[pahnke:]===> Walter Norman"
+        "Walter ===[pahnke:]===> Walter Norman",
+        "Peery ===[lake:]===> Peery Lake"
     ]
 }
