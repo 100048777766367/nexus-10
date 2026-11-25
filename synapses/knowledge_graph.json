@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "(federal constituency):",
-        "Hot",
         "Tour: The",
         "Gainesville,",
         "York: Gainesville",
@@ -99,10 +97,11 @@
         "Dar",
         "Dar Lasram",
         "Located",
-        "Street"
+        "Street",
+        "Walter",
+        "Walter Norman"
     ],
     "edges": [
-        "Martin-guillaume ===[biennais:]===> Martin-Guillaume Biennais",
         "Helma ===[van]===> den Berg:",
         "Ivan ===[bokyi:]===> Ivan Bokyi",
         "Hinea ===[fasciata:]===> Hinea fasciata",
@@ -251,6 +250,7 @@
         "Better ===[get]===> Ready: Better",
         "The ===[album,]===> produced guitarist",
         "Dar ===[lasram:]===> Dar Lasram",
-        "Located ===[tribunal]===> Street"
+        "Located ===[tribunal]===> Street",
+        "Walter ===[pahnke:]===> Walter Norman"
     ]
 }
