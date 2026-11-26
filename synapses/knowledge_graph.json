@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Benjamin Platt",
-        "founder the",
         "Rufous-headed",
         "The rufous-headed",
         "Combine",
@@ -99,10 +97,11 @@
         "2016",
         "Cup final:",
         "2019",
-        "Blue Hose"
+        "Blue Hose",
+        "Hoshi",
+        "Hi: Hoshi"
     ],
     "edges": [
-        "Rip ===[chrysalis:]===> RIP Chrysalis",
         "Was ===[released]===> through Hausu",
         "Siege ===[pärnu:]===> The siege",
         "Kabirhat ===[upazila:]===> Kabirhat upazila",
@@ -251,6 +250,7 @@
         "Walter ===[pahnke:]===> Walter Norman",
         "Peery ===[lake:]===> Peery Lake",
         "2016 ===[malaysia]===> Cup final:",
-        "2019 ===[presbyterian]===> Blue Hose"
+        "2019 ===[presbyterian]===> Blue Hose",
+        "Hoshi ===[katta]===> Hi: Hoshi"
     ]
 }
