@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "was 2,333",
-        "Benjamin",
         "Benjamin Platt",
         "founder the",
         "Rufous-headed",
@@ -99,10 +97,11 @@
         "Peery",
         "Peery Lake",
         "2016",
-        "Cup final:"
+        "Cup final:",
+        "2019",
+        "Blue Hose"
     ],
     "edges": [
-        "Hinea ===[fasciata:]===> Hinea fasciata",
         "Rip ===[chrysalis:]===> RIP Chrysalis",
         "Was ===[released]===> through Hausu",
         "Siege ===[pärnu:]===> The siege",
@@ -251,6 +250,7 @@
         "Located ===[tribunal]===> Street",
         "Walter ===[pahnke:]===> Walter Norman",
         "Peery ===[lake:]===> Peery Lake",
-        "2016 ===[malaysia]===> Cup final:"
+        "2016 ===[malaysia]===> Cup final:",
+        "2019 ===[presbyterian]===> Blue Hose"
     ]
 }
