@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "Racket",
-        "Racket Attack",
-        "Japan Moero!!",
-        "Marriage",
         "1949: The",
         "William",
         "Mackenzie King:",
@@ -99,11 +95,13 @@
         "Timeline",
         "2019–2020 Hong",
         "The",
-        "continued"
+        "continued",
+        "Jane",
+        "Jane Beale",
+        "She",
+        "her first"
     ],
     "edges": [
-        "Kabirhat ===[upazila:]===> Kabirhat upazila",
-        "Named ===[after]===> its administ",
         "Nordic ===[mobile]===> Telephone: NMT",
         "Legendary ===[duck]===> Tower: Legendary",
         "The ===[shield:]===> The Shield",
@@ -251,6 +249,8 @@
         "2019 ===[presbyterian]===> Blue Hose",
         "Hoshi ===[katta]===> Hi: Hoshi",
         "Timeline ===[the]===> 2019–2020 Hong",
-        "The ===[protests]===> continued"
+        "The ===[protests]===> continued",
+        "Jane ===[beale:]===> Jane Beale",
+        "She ===[made]===> her first"
     ]
 }
