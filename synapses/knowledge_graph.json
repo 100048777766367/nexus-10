@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "Rufous-headed",
-        "The rufous-headed",
-        "Combine",
-        "Combine term",
         "Racket",
         "Racket Attack",
         "Japan Moero!!",
@@ -99,11 +95,13 @@
         "2019",
         "Blue Hose",
         "Hoshi",
-        "Hi: Hoshi"
+        "Hi: Hoshi",
+        "Timeline",
+        "2019–2020 Hong",
+        "The",
+        "continued"
     ],
     "edges": [
-        "Was ===[released]===> through Hausu",
-        "Siege ===[pärnu:]===> The siege",
         "Kabirhat ===[upazila:]===> Kabirhat upazila",
         "Named ===[after]===> its administ",
         "Nordic ===[mobile]===> Telephone: NMT",
@@ -251,6 +249,8 @@
         "Peery ===[lake:]===> Peery Lake",
         "2016 ===[malaysia]===> Cup final:",
         "2019 ===[presbyterian]===> Blue Hose",
-        "Hoshi ===[katta]===> Hi: Hoshi"
+        "Hoshi ===[katta]===> Hi: Hoshi",
+        "Timeline ===[the]===> 2019–2020 Hong",
+        "The ===[protests]===> continued"
     ]
 }
