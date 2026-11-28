@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "1949: The",
-        "William",
         "Mackenzie King:",
         "Kill",
         "kill house",
@@ -99,10 +97,11 @@
         "Jane",
         "Jane Beale",
         "She",
-        "her first"
+        "her first",
+        "Reynard",
+        "The Reynard"
     ],
     "edges": [
-        "Nordic ===[mobile]===> Telephone: NMT",
         "Legendary ===[duck]===> Tower: Legendary",
         "The ===[shield:]===> The Shield",
         "Peziza: ===[peziza]===> large genus",
@@ -251,6 +250,7 @@
         "Timeline ===[the]===> 2019–2020 Hong",
         "The ===[protests]===> continued",
         "Jane ===[beale:]===> Jane Beale",
-        "She ===[made]===> her first"
+        "She ===[made]===> her first",
+        "Reynard ===[02i:]===> The Reynard"
     ]
 }
